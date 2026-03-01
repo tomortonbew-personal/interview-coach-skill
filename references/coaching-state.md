@@ -1,6 +1,6 @@
 # Coaching State — Tom Orton-Bew
 
-Last updated: 2026-03-01
+Last updated: 2026-03-01 (end of session 1)
 
 ## Profile
 
@@ -75,21 +75,29 @@ Last updated: 2026-03-01
 ### Moneybox — Senior PM, Wealth Propositions & Guidance
 
 - Status: Applied via recruiter (CV submitted; awaiting confirmation of submission to hiring team)
-- Recruiter: [name unknown — recruiter covers Product and Dev roles; posted about Dev roles late Friday]
-- Fit verdict: Realistic with preparation
-- Fit confidence: Medium-high
-- Fit signals: Strong experimentation and proposition design DNA; consumer mobile at scale; commercial outcomes
-- Structural gaps: No fintech/wealth domain experience; no FCA regulatory exposure; 5.5 vs 6+ years experience
-- Notes: Tom’s interpretation of role = integrating Aurora product natively + exploring subscriptions tiers. JD reads more as financial guidance/planning journeys. Worth probing which frame is more accurate during recruiter follow-up.
+- Recruiter: [name unknown — covers Product and Dev roles; posted about Dev roles late Friday PM]
+- Fit verdict: Strong fit, high confidence
+- Fit confidence: High
+- Fit signals: Strong experimentation and proposition design DNA; consumer mobile at scale; commercial outcomes; autonomous “builder” profile matches exactly what they haven’t been able to find
+- Structural gaps: ~No fintech/wealth domain experience~ — RECRUITER CONFIRMED: fintech/propositions experience no longer required. ~5.5 vs 6+ years experience — minor, recruiter is supportive.
+- Key recruiter intelligence:
+  - All applicants to date have been too delivery-focused; Moneybox want creative, autonomous thinker who handles ambiguity without hand-holding
+  - Requirements have been explicitly flexed: fintech experience and propositions experience no longer required
+  - Salary range increased from £75k to £80k–£85k; recruiter happy to put Tom forward at £85k
+  - Self-service A/B infrastructure story is a direct proof point for the “not delivery-focused, autonomous builder” positioning
+- Notes: Tom’s framing (Aurora integration + subscription tiers) may differ from JD framing (financial guidance journeys). Worth clarifying during recruiter follow-up — but don’t lead with this in the application, follow the JD framing.
 - Date: 2026-03-01
 
 ### PlayStation — Senior Technical PM, Partner & Data Products (Creator tools)
 
 - Status: Not yet applied — application being prepared for 2026-03-02
-- Fit verdict: Genuine stretch / long shot
-- Fit confidence: Low-medium
-- Fit signals: Strong SDK/API/platform infrastructure experience; technical depth; stated gaming passion
-- Structural gaps: JD explicitly requires game development background (developer/producer/director); Tom has zero professional game dev experience; customer has always been consumer users not game developers
+- Fit verdict: Tough but winnable with the right prep (upgraded from long shot)
+- Fit confidence: Medium
+- Fit signals: Strong SDK/API/platform infrastructure experience; technical depth; stated gaming passion; internal advocate at Staff level
+- Structural gaps: No professional game dev background — but internal advocate (Staff Data PM, previously interviewed Tom) has confirmed “game dev experience isn’t all that common even in the partner space of SIE”
+- Internal advocate: Staff Data Product Manager (previously interviewed Tom for Data PM role, gave strong positive feedback, didn’t hire due to data skills gap at the time). Has offered to endorse Tom for this role. Quote: “One caveat - they may be looking for someone with game dev or direction experience; however that isn’t all that common even in the partner space of SIE.”
+- Endorsement status: CONFIRMED — Tom replied on 2026-03-01. Warm, genuine message sent accepting the offer; advocate responded positively. Relationship in good standing going into application.
+- Application status: Submitting 2026-03-02. Rewritten CV (PlayStation TPM, Deep Optimization) produced and ready.
 - Date: 2026-03-01
 
 ## Score History
@@ -121,7 +129,22 @@ Last updated: 2026-03-01
 
 ## Resume Optimization
 
-(empty — run `resume` to populate)
+- Date: 2026-03-01
+- Depth: Deep Optimization
+- Overall: Needs Work (draft) → strong after rewrite
+- ATS compatibility: ATS-Ready
+- Recruiter scan: Moderate (draft) → Strong (rewrite)
+- Bullet quality: Strong
+- Seniority calibration: Aligned
+- Keyword coverage: Weak (draft) → improved in rewrite
+- JD-targeted: Yes — PlayStation Senior TPM
+- Top fixes applied:
+1. Removed CLTV +58% and +36% YoY bullets from Key Achievements (wrong frame for PS)
+1. Rewrote profile — removed “consumer mobile apps”, strengthened gaming passion line
+1. Rewrote SDK bullet throughout — shifted to “API contracts, integration patterns, repeatable onboarding standards”
+1. Removed entire “Growth and conversion outcomes” subsection from Economist experience
+1. Reordered skills — SDK integration, API design, developer tooling now lead
+- Cross-surface gaps: LinkedIn not yet reviewed — check for “consumer mobile” language
 
 ## Positioning Statement
 
@@ -133,15 +156,15 @@ Last updated: 2026-03-01
 
 ## Comp Strategy
 
-- Date: —
-- Depth: —
-- Target range: unknown
-- Range basis: —
-- Research completeness: none
-- Stage coached: —
-- Jurisdiction notes: UK-based
-- Scripts provided: —
-- Key principle: —
+- Date: 2026-03-01
+- Depth: Not yet run — populated from recruiter intelligence only
+- Target range: £80k–£85k (Moneybox) | Unknown (PlayStation)
+- Range basis: Recruiter confirmed Moneybox increased range from £75k to £80–85k; recruiter stated he’s happy to put Tom forward at £85k
+- Research completeness: Partial (Moneybox only, from recruiter)
+- Stage coached: Pre-application
+- Jurisdiction notes: UK-based, London hybrid roles
+- Scripts provided: None yet — run `salary` before recruiter screen
+- Key principle: Anchor at £85k for Moneybox — recruiter has already validated this figure. Don’t undersell by citing the bottom of the range.
 
 ## Meta-Check Log
 
@@ -157,14 +180,18 @@ Last updated: 2026-03-01
 
 ### Recent Sessions
 
-|Date      |Commands Run|Key Outcomes                                                                                                          |
-|----------|------------|----------------------------------------------------------------------------------------------------------------------|
-|2026-03-01|kickoff     |Profile created; two target roles profiled; Moneybox (realistic) and PlayStation (stretch) assessed; coaching plan set|
+|Date      |Commands Run                           |Key Outcomes                                                                                                |
+|----------|---------------------------------------|------------------------------------------------------------------------------------------------------------|
+|2026-03-01|kickoff                                |Profile created; two target roles profiled; Moneybox (realistic) and PlayStation (stretch→winnable) assessed|
+|2026-03-01|resume (PlayStation, Deep Optimization)|Full audit + rewritten CV produced; 5 priority fixes applied; consumer framing removed throughout           |
 
 ## Coaching Notes
 
 - 2026-03-01: Facing redundancy with wife and 6-month-old financially dependent. Real financial pressure — coaching should be efficient and high-leverage, not expansive. Avoid adding to anxiety with overwhelming task lists.
 - 2026-03-01: Rusty interviewer (2.5 years). Strong base — this is a refreshing job, not rebuilding from scratch. Focus on story sharpening and narrative readiness.
 - 2026-03-01: Concerned about AI knowledge currency. Worth addressing in prep — his GenAI personalisation work at The Economist is a genuine asset, needs surfacing clearly.
-- 2026-03-01: PlayStation is passion-led (“I would LOVE that job”). Manage expectations clearly while still helping him put forward the strongest possible application.
-- 2026-03-01: Moneybox recruiter hasn’t confirmed submission yet. First action = follow-up outreach. Tom’s read is recruiter had a busy week (posted about Dev roles Friday PM).
+- 2026-03-01: Moneybox fit assessment upgraded to high confidence after recruiter intelligence: fintech/propositions requirements dropped, salary flexed to £80-85k, explicit gap in market for autonomous creative thinkers (Tom’s profile). Self-service A/B infrastructure = killer proof point for their stated need.
+- 2026-03-01: PlayStation upgraded from long shot to tough-but-winnable. Internal Staff-level advocate (previously interviewed Tom, strong positive feedback) has offered endorsement. Advocate confirmed game dev background “isn’t all that common even in the partner space.” Confirm endorsement before submitting application.
+- 2026-03-01: PlayStation endorsement confirmed. Tom’s reply was warm and appropriately non-transactional (“I wasn’t reaching out to seek endorsement” — made a strong impression). Relationship asset is real.
+- 2026-03-01: Moneybox recruiter follow-up still pending. Tom assessed recruiter had a busy end-of-week (posted about Dev roles late Friday). Low urgency but worth a brief nudge early this week to confirm submission.
+- 2026-03-01: Tom described the coaching plan suggestions as “all perfect” — no concerns about approach or pacing. Continue as planned.
