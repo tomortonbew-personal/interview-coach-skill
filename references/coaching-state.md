@@ -1,6 +1,6 @@
 # Coaching State — Tom Orton-Bew
 
-Last updated: 2026-03-01 (end of session 1)
+Last updated: 2026-03-02 (end of session 2)
 
 ## Profile
 
@@ -8,7 +8,7 @@ Last updated: 2026-03-01 (end of session 1)
 - Seniority band: Senior PM (upward move from current PM title)
 - Track: Quick Prep
 - Feedback directness: 3 (Balanced)
-- Interview timeline: No interview confirmed yet; PlayStation application tomorrow (2026-03-02)
+- Interview timeline: PlayStation applied 2026-03-01; Moneybox applied via recruiter (awaiting confirmation of submission to hiring team), updated CV shared on 2026-03-01 with targeted tweaks and enhancements
 - Time-aware coaching mode: Focused
 - Interview history: Experienced but rusty (2.5 years since last interview — current role at The Economist)
 - Biggest concern: Facing redundancy; wife and 6-month-old son financially dependent; tough market; needs to keep AI knowledge current
@@ -90,15 +90,17 @@ Last updated: 2026-03-01 (end of session 1)
 
 ### PlayStation — Senior Technical PM, Partner & Data Products (Creator tools)
 
-- Status: Not yet applied — application being prepared for 2026-03-02
+- Status: SUBMITTED — 2026-03-02 (before midnight)
 - Fit verdict: Tough but winnable with the right prep (upgraded from long shot)
 - Fit confidence: Medium
-- Fit signals: Strong SDK/API/platform infrastructure experience; technical depth; stated gaming passion; internal advocate at Staff level
+- Fit signals: Strong SDK/API/platform infrastructure experience; technical depth; stated gaming passion; internal advocate at Staff level (10+ years at PlayStation)
 - Structural gaps: No professional game dev background — but internal advocate (Staff Data PM, previously interviewed Tom) has confirmed “game dev experience isn’t all that common even in the partner space of SIE”
 - Internal advocate: Staff Data Product Manager (previously interviewed Tom for Data PM role, gave strong positive feedback, didn’t hire due to data skills gap at the time). Has offered to endorse Tom for this role. Quote: “One caveat - they may be looking for someone with game dev or direction experience; however that isn’t all that common even in the partner space of SIE.”
-- Endorsement status: CONFIRMED — Tom replied on 2026-03-01. Warm, genuine message sent accepting the offer; advocate responded positively. Relationship in good standing going into application.
-- Application status: Submitting 2026-03-02. Rewritten CV (PlayStation TPM, Deep Optimization) produced and ready.
-- Date: 2026-03-01
+- Endorsement status: CONFIRMED — Tom replied on 2026-03-01. Warm, genuine message sent accepting the offer; advocate responded positively. Advocate named in employee referral field of application form.
+- CV version submitted: v3 (Deep Optimization — consumer framing removed, developers/publishers/Google Play Partner language added, iOS modularisation and rearchitecture decision-making bullets added, en dashes throughout)
+- Cover letter version submitted: v2 final (en dashes, rearchitecture framing corrected, “multiple” SDKs, bridge narrative in para 3, PS1→PS5 gaming arc)
+- Opted in: “Consider me for other roles” — yes
+- Date submitted: 2026-03-02
 
 ## Score History
 
@@ -129,21 +131,27 @@ Last updated: 2026-03-01 (end of session 1)
 
 ## Resume Optimization
 
-- Date: 2026-03-01
+- Date: 2026-03-02
 - Depth: Deep Optimization
-- Overall: Needs Work (draft) → strong after rewrite
+- Overall: Strong (v3 final)
 - ATS compatibility: ATS-Ready
-- Recruiter scan: Moderate (draft) → Strong (rewrite)
+- Recruiter scan: Strong
 - Bullet quality: Strong
 - Seniority calibration: Aligned
-- Keyword coverage: Weak (draft) → improved in rewrite
+- Keyword coverage: Strong (significantly improved from draft)
 - JD-targeted: Yes — PlayStation Senior TPM
-- Top fixes applied:
+- Final version: v3
+- Key changes across all iterations:
 1. Removed CLTV +58% and +36% YoY bullets from Key Achievements (wrong frame for PS)
-1. Rewrote profile — removed “consumer mobile apps”, strengthened gaming passion line
-1. Rewrote SDK bullet throughout — shifted to “API contracts, integration patterns, repeatable onboarding standards”
+1. Rewrote profile — removed “consumer mobile apps”, strengthened gaming passion line, “build with” not “work with”
+1. SDK bullet reframed — “API contracts, integration patterns, repeatable onboarding standards”; “multiple” not “five”; vendor devs/architects/solutions engineers now visible; 3 Amigos and Refinement process added
 1. Removed entire “Growth and conversion outcomes” subsection from Economist experience
 1. Reordered skills — SDK integration, API design, developer tooling now lead
+1. Added Google Play Partner bullet — early-access trial invitation from Global Product Lead for Monetisation
+1. Added Editorial deep linking bullet — OneLinks, installed/non-installed journeys, publishing team pain point resolved
+1. Added iOS code modularisation bullet — championed against commercial priorities, analytics package decoupling
+1. Rearchitecture bullet corrected — “Led my squad’s product and architectural decision-making” (not whole programme); principled decisions framing added
+1. En dashes throughout (no em dashes)
 - Cross-surface gaps: LinkedIn not yet reviewed — check for “consumer mobile” language
 
 ## Positioning Statement
@@ -180,10 +188,11 @@ Last updated: 2026-03-01 (end of session 1)
 
 ### Recent Sessions
 
-|Date      |Commands Run                           |Key Outcomes                                                                                                |
-|----------|---------------------------------------|------------------------------------------------------------------------------------------------------------|
-|2026-03-01|kickoff                                |Profile created; two target roles profiled; Moneybox (realistic) and PlayStation (stretch→winnable) assessed|
-|2026-03-01|resume (PlayStation, Deep Optimization)|Full audit + rewritten CV produced; 5 priority fixes applied; consumer framing removed throughout           |
+|Date      |Commands Run                                  |Key Outcomes                                                                                                                                                                                           |
+|----------|----------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|2026-03-01|kickoff                                       |Profile created; two target roles profiled; Moneybox (realistic) and PlayStation (stretch→winnable) assessed                                                                                           |
+|2026-03-01|resume (PlayStation, Deep Optimization)       |Full audit + rewritten CV produced; 5 priority fixes applied; consumer framing removed throughout                                                                                                      |
+|2026-03-02|resume (PlayStation, continued) + cover letter|CV iterated to v3: developers/publishers/Google Play/modularisation/rearchitecture decision-making bullets added; cover letter produced and iterated to v2 final; application submitted before midnight|
 
 ## Coaching Notes
 
@@ -194,4 +203,6 @@ Last updated: 2026-03-01 (end of session 1)
 - 2026-03-01: PlayStation upgraded from long shot to tough-but-winnable. Internal Staff-level advocate (previously interviewed Tom, strong positive feedback) has offered endorsement. Advocate confirmed game dev background “isn’t all that common even in the partner space.” Confirm endorsement before submitting application.
 - 2026-03-01: PlayStation endorsement confirmed. Tom’s reply was warm and appropriately non-transactional (“I wasn’t reaching out to seek endorsement” — made a strong impression). Relationship asset is real.
 - 2026-03-01: Moneybox recruiter follow-up still pending. Tom assessed recruiter had a busy end-of-week (posted about Dev roles late Friday). Low urgency but worth a brief nudge early this week to confirm submission.
-- 2026-03-01: Tom described the coaching plan suggestions as “all perfect” — no concerns about approach or pacing. Continue as planned.
+- 2026-03-02: PlayStation application submitted before midnight. CV v3 + Cover Letter v2 final. Employee referral field used for advocate’s name — correct channel, keeps cover letter clean.
+- 2026-03-02: Three important honest corrections made during CV review: (1) “five SDKs” → “multiple” (worked on more but not all led); (2) rearchitecture reframed from “Led full rearchitecture” to “Led my squad’s product and architectural decision-making” — accurate scope; (3) cover letter “I led a full app rearchitecture” corrected to match. Tom’s instinct to correct these rather than let them stand is exactly right — these would be exposed in interview.
+- 2026-03-02: Tom is aware market has shifted significantly in 2.5 years — companies hiring to hit the ground running, network/referrals increasingly essential to even get seen. His two assets (Moneybox recruiter going to bat for him, Staff-level PlayStation endorsement from 10+ year employee) are well-placed for this environment.
