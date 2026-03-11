@@ -1,6 +1,6 @@
 # Coaching State — Tom Orton-Bew
 
-Last updated: 2026-03-06 (session 5 — Rightmove TPM AI Enablement screening call completed; strong positive signals)
+Last updated: 2026-03-11 (session 8 — Rightmove Consumer Apps rejection logged; Rightmove TPM chaser sent; PlayStation rejection logged; pipeline consolidated)
 
 ## Profile
 
@@ -72,17 +72,17 @@ Last updated: 2026-03-06 (session 5 — Rightmove TPM AI Enablement screening ca
 - Fit verdict: Legitimate opportunity — internal platform stretch, well-positioned
 - Fit confidence: High (upgraded from Medium-High post-call)
 - Positive signals from call:
-  1. Recruiter walked Tom through all three interview stages unprompted
-  2. Recruiter discussed office days (Wednesday and Thursday — matches Tom's preference perfectly)
-  3. Recruiter shared team setup and business strategy detail
-  4. Recruiter confirmed expected salary: £90,000 (above Tom's £85K anchor — unprompted)
-  5. Recruiter asked which days of the week work best for interviews
-  6. Tom's answers naturally led into recruiter's next questions — "you've already touched on this" said before most questions
-  7. Tom asked the adoption blockers question — recruiter said "really good question"
+1. Recruiter walked Tom through all three interview stages unprompted
+1. Recruiter discussed office days (Wednesday and Thursday — matches Tom’s preference perfectly)
+1. Recruiter shared team setup and business strategy detail
+1. Recruiter confirmed expected salary: £90,000 (above Tom’s £85K anchor — unprompted)
+1. Recruiter asked which days of the week work best for interviews
+1. Tom’s answers naturally led into recruiter’s next questions — “you’ve already touched on this” said before most questions
+1. Tom asked the adoption blockers question — recruiter said “really good question”
 - Interview process (3 stages):
-  1. Stages 1 and 2: Stakeholder meetings across Engineering and Product — likely competency-based
-  2. Stage 3: Case study — how Tom would approach a hypothetical situation
-  3. Total: 5–6 team members met across all stages
+1. Stages 1 and 2: Stakeholder meetings across Engineering and Product — likely competency-based
+1. Stage 3: Case study — how Tom would approach a hypothetical situation
+1. Total: 5–6 team members met across all stages
 - Role detail confirmed: Highly technical; reports into Head of Technology Operations (not a Product leader); brand-new team; also hiring an engineering leader and engineers; focused on safe adoption of AI tools for developers and teams across the business
 - Office days confirmed: Wednesday and Thursday ✅
 - Salary confirmed: £90,000 expected (recruiter-stated, unprompted) — update comp strategy accordingly
@@ -90,19 +90,22 @@ Last updated: 2026-03-06 (session 5 — Rightmove TPM AI Enablement screening ca
 - CV version submitted: Technically-minded PM variant (platform/infrastructure/AI framing)
 - Cover letter: Yes — AI Champion, coding pilot, consumer origin story, found first home on Rightmove
 - Prep completed: Full screening call prep document produced covering who-are-you story, why Rightmove/why this role, four experience hooks, questions for them, Rightmove Hows, day-of checklist
-- Thank-you note: Sent 2026-03-06 ~8am (timed before recruiter's hiring team catch-up)
+- Thank-you note: Sent 2026-03-06 ~8am (timed before recruiter’s hiring team catch-up)
 - Next steps: Await hiring team confirmation; if progressed — competency-based interview prep is priority (STAR format; stories mapped to engineering/product stakeholder concerns)
 - Coach ranking: 2nd (upgraded; greenfield team + £90K salary + strong call signals make this a top-tier opportunity)
 
 ### PlayStation — Senior Technical PM, Partner & Data Products
 
-- Status: SUBMITTED — 2026-03-02 (before midnight)
-- Fit verdict: Tough but winnable
-- Fit confidence: Medium
-- Internal advocate: Staff Data PM (10+ years SIE); confirmed endorsement; named in employee referral field
-- Structural gaps: No professional game dev background (advocate: “not that common even in the partner space”)
+- Status: REJECTED — 2026-03-11 (application sift; did not progress)
+- Fit verdict: Tough but winnable — structural gap (no game dev background) likely decisive at sift
+- Internal advocate: Staff Data PM (10+ years SIE); confirmed endorsement; named in employee referral field; met for coffee 2026-03-09 at Archetype Coffee, Oxford Circus (Röster recommendation — warm, genuine conversation)
+- Advocate intel from coffee (2026-03-09):
+1. DevNet is PlayStation’s developer portal — rebuilt separately for PS3, PS4, and PS5; current investment focus is consolidation into one consistent platform. Likely the core infrastructure problem at the heart of the role.
+1. Matty confirmed relationship is worth maintaining regardless of outcome
+1. Tom was the only candidate from their ~2.5 year old interview process to send a thank-you and ask for feedback — Matty said it demonstrated maturity; explains his ongoing advocacy
 - CV version: v3 Deep Optimization
 - Cover letter: v2 final
+- Coach ranking: Archived — Matty relationship retained as long-term network asset
 - Coach ranking: 3rd
 
 ### iwoca — Lead PM, Mobile App
@@ -113,9 +116,11 @@ Last updated: 2026-03-06 (session 5 — Rightmove TPM AI Enablement screening ca
 - Fit confidence: Medium (pending Louise call)
 - Fit signals: Strongest mobile-from-scratch credentials of any application; native iOS/Android; self-service A/B infrastructure; 99.8% crash-free stability; lowest competition (49 applicants); highest salary ceiling (£100k–£130k); best culture score in pipeline (4.7/5 Glassdoor); +53% 2-year headcount growth (highest in pipeline); profitable since Q4 2022; LOW redundancy risk
 - Structural unknowns — MUST resolve on Louise call:
+
 1. OFFICE DAYS: LinkedIn says “On-site”; JD says “Hybrid in the UK” — must clarify for Stroud base. Ask: “The LinkedIn listing showed on-site — is there flexibility on that, or is it genuinely hybrid?”
 1. TEAM OWNERSHIP: “hiring, building, and leading a cross-functional team” — could mean direct reports (line management, Tom’s hard filter) or squad composition authority (which Tom already does). Ask: “How does iwoca see the team ownership model — would the mobile engineers be direct reports to the PM, or more a cross-functional squad structure?”
 1. ADDITIONAL (seniority step): Is there a CPO or senior product leader who would provide strategic oversight? Is engineering leadership already in place, or is mobile built from scratch including the EM?
+
 - CV version: Prepared and ready — not yet sent (hold until call confirms worth proceeding)
 - Cover letter: Not yet produced — hold until after Louise call
 - Gap flags: B2B/SME customer context; no fintech/payments experience (bonus, not required); genuine seniority step up
@@ -144,9 +149,11 @@ Last updated: 2026-03-06 (session 5 — Rightmove TPM AI Enablement screening ca
 
 ## Outcome Log
 
-|Date       |Company   |Round           |Outcome |Notes                                                                                                                    |
-|-----------|----------|----------------|--------|-------------------------------------------------------------------------------------------------------------------------|
-|~2026-02-21|Flo Health|Application sift|Rejected|Growth PM role; quick rejection suggests early CV sift. Tom subsequently applied to Flo Onboarding PM role on 2026-02-24.|
+|Date       |Company    |Round           |Outcome |Notes                                                                                                                                                                                                    |
+|-----------|-----------|----------------|--------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|~2026-02-21|Flo Health |Application sift|Rejected|Growth PM role; quick rejection suggests early CV sift. Tom subsequently applied to Flo Onboarding PM role on 2026-02-24.                                                                                |
+|2026-03-06 |Rightmove  |Application sift|Rejected|Senior PM, Consumer Apps. Automated rejection from no-reply address. Line management requirement was a hard filter conflict anyway. Separate process from TPM AI Enablement — no impact on that pipeline.|
+|2026-03-11 |PlayStation|Application sift|Rejected|Senior TPM, Partner & Data Products. Structural gap (no game dev background) likely decisive. Internal advocate (Matty) relationship remains intact and warm — genuine long-term network asset.          |
 
 ## Drill Progression
 
@@ -179,13 +186,16 @@ Last updated: 2026-03-06 (session 5 — Rightmove TPM AI Enablement screening ca
 
 ### Recent Sessions
 
-|Date      |Commands Run                                       |Key Outcomes                                                                                                                                                              |
-|----------|---------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|2026-03-01|kickoff                                            |Profile created; Moneybox and PlayStation assessed                                                                                                                        |
-|2026-03-01|resume (PlayStation, Deep Optimization)            |Full audit + rewritten CV; 5 priority fixes applied; consumer framing removed                                                                                             |
-|2026-03-02|resume (PlayStation, continued) + cover letter     |CV to v3; cover letter to v2 final; application submitted                                                                                                                 |
-|2026-03-02|coaching-state update (session 3)                  |Rightmove Consumer Apps and Flo Onboarding added; Rightmove TPM screening call logged; Flo rejection logged                                                               |
-|2026-03-06|debrief + coaching-state update (session 5)|Rightmove TPM screening call completed 2026-03-05; strong positive signals documented; salary updated to £90K; interview process mapped (3 stages, competency + case study); coach ranking upgraded to 2nd; thank-you note sent 8am 2026-03-06|
+|Date      |Commands Run                                       |Key Outcomes                                                                                                                                                                                                                                  |
+|----------|---------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|2026-03-01|kickoff                                            |Profile created; Moneybox and PlayStation assessed                                                                                                                                                                                            |
+|2026-03-01|resume (PlayStation, Deep Optimization)            |Full audit + rewritten CV; 5 priority fixes applied; consumer framing removed                                                                                                                                                                 |
+|2026-03-02|resume (PlayStation, continued) + cover letter     |CV to v3; cover letter to v2 final; application submitted                                                                                                                                                                                     |
+|2026-03-02|coaching-state update (session 3)                  |Rightmove Consumer Apps and Flo Onboarding added; Rightmove TPM screening call logged; Flo rejection logged                                                                                                                                   |
+|2026-03-06|debrief + coaching-state update (session 5)        |Rightmove TPM screening call completed 2026-03-05; strong positive signals documented; salary updated to £90K; interview process mapped (3 stages, competency + case study); coach ranking upgraded to 2nd; thank-you note sent 8am 2026-03-06|
+|2026-03-09|prep + debrief (session 6)                         |PlayStation advocate coffee prep completed; coffee with Matty at Archetype Coffee, Oxford Circus; DevNet consolidation intel captured; relationship strengthened; Röster recommended and used successfully                                    |
+|2026-03-11|coaching-state update (session 7)                  |PlayStation rejection logged; outcome log updated; focus confirmed on Rightmove TPM and Moneybox                                                                                                                                              |
+|2026-03-11|pipeline review + coaching-state update (session 8)|Rightmove Consumer Apps rejection logged (2026-03-06, automated); PlayStation rejection confirmed; Rightmove TPM chaser sent lunchtime; active pipeline consolidated to Rightmove TPM + Moneybox as primary focus                             |
 
 ## Coaching Notes
 
@@ -205,8 +215,14 @@ Last updated: 2026-03-06 (session 5 — Rightmove TPM AI Enablement screening ca
 - 2026-03-03: iwoca standout data: 49 applicants (lowest in pipeline), +53% 2-year headcount growth (highest), 4.7/5 Glassdoor (highest), £100k–£130k salary (highest), LOW redundancy risk. If structural unknowns resolve favourably, moves to 2nd or 3rd in ranking.
 - 2026-03-03: Company analysis document updated to include full iwoca section in same format as existing five. Summary table updated to six roles. Rankings revised accordingly.
 - 2026-03-03: Pipeline is now six roles at various stages. Focus should be on progressing what’s in play — no need to expand the search further at this stage.
-- 2026-03-06: Rightmove TPM screening call completed 2026-03-05. Every signal positive — salary revealed at £90K unprompted, interview stages shared, office days confirmed (Wed/Thu), recruiter asked preferred interview days. "You've already touched on this" before most questions = Tom's answers were leading the conversation, not following it. Fit confidence upgraded to High.
+- 2026-03-06: Rightmove TPM screening call completed 2026-03-05. Every signal positive — salary revealed at £90K unprompted, interview stages shared, office days confirmed (Wed/Thu), recruiter asked preferred interview days. “You’ve already touched on this” before most questions = Tom’s answers were leading the conversation, not following it. Fit confidence upgraded to High.
 - 2026-03-06: Rightmove TPM is now joint-top priority with Moneybox. Greenfield team (also hiring engineering leader and engineers), reports into Head of Technology Operations, 3-stage process (2x competency, 1x case study). Next prep focus: competency-based STAR answers for Engineering and Product stakeholder interviews.
-- 2026-03-06: Rightmove TPM case study stage likely to involve a hypothetical AI adoption scenario — e.g. "here's an engineering org with mixed AI adoption, how do you tackle it?" Tom's pilot experience and research (sustainability framework, DORA metrics, productivity paradox) are strong foundations for this.
-- 2026-03-06: Salary anchor revised upward — £90K is recruiter-stated expectation, not Tom's ask. This is a meaningful uplift from original £85K anchor. Do not undersell at any subsequent stage.
+- 2026-03-06: Rightmove TPM case study stage likely to involve a hypothetical AI adoption scenario — e.g. “here’s an engineering org with mixed AI adoption, how do you tackle it?” Tom’s pilot experience and research (sustainability framework, DORA metrics, productivity paradox) are strong foundations for this.
+- 2026-03-06: Salary anchor revised upward — £90K is recruiter-stated expectation, not Tom’s ask. This is a meaningful uplift from original £85K anchor. Do not undersell at any subsequent stage.
 - 2026-03-06: Thank-you note sent to recruiter Tom at 8am 2026-03-06 — timed deliberately before his hiring team catch-up. Warm, brief, professional.
+- 2026-03-06: Rightmove Consumer Apps automated rejection received 18:28. From no-reply address, generic template — confirmed automated sift. Line management requirement was a hard filter conflict regardless. Separate hiring process from TPM AI Enablement — zero impact on that pipeline.
+- 2026-03-09: PlayStation advocate coffee completed. Matty met Tom at Archetype Coffee (Röster recommendation — app used live and validated the pick). Conversation was relaxed and genuine. Key intel: DevNet rebuilt per console generation; consolidation into one platform is current investment priority. Tom’s rearchitecture story maps directly.
+- 2026-03-09: Matty revealed Tom was the only candidate from their ~2.5 year old process to send a thank-you and ask for feedback. Small, considered gestures compound significantly over time. Relationship retained as genuine long-term network asset.
+- 2026-03-11: PlayStation rejection received. Not a surprise. Focus and energy correctly on Rightmove TPM and Moneybox — Tom’s two highest-confidence and most motivating opportunities.
+- 2026-03-11: Rightmove TPM chaser sent lunchtime. Warm, brief — referenced Thursday’s conversation and Friday hiring team catch-up. Still awaiting confirmation. No news over weekend is normal; recruiter process timing.
+- 2026-03-11: Tom feeling positive and energised despite two rejections. Active pipeline now consolidated to two roles (Rightmove TPM, Moneybox) which are also his top two by motivation and fit confidence. Good psychological position to be in. iwoca and Flo remain live but lower priority pending developments.
