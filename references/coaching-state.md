@@ -57,14 +57,49 @@ Last updated: 2026-03-11 (session 8 — Rightmove Consumer Apps rejection logged
 
 ### Moneybox — Senior PM, Wealth Propositions & Guidance
 
-- Status: Applied via recruiter (CV submitted; awaiting confirmation of submission to hiring team)
+- Status: INTERVIEW CONFIRMED — 2026-03-13, 3pm-3:20pm with Tibby Palmer (Head of Product)
 - Recruiter: James at Gravitas Recruitment
 - Fit verdict: Strong fit, high confidence
 - Fit confidence: High
 - Key recruiter intelligence: fintech/propositions experience no longer required; salary flexed to £80-85k; Tom to be put forward at £85k; Moneybox want autonomous creative thinker, not delivery executor
-- Notes: James submitted earlier CV version (not final optimised). Worth nudge this week to confirm submission.
 - CV version: Moneybox-targeted (decision journeys / guidance-led framing)
 - Coach ranking: 1st
+
+**Interviewer Intel — Tibby Palmer, Head of Product**
+
+- Background: Entire career in propositions and product leadership — BT (Senior Propositions Manager), Vodafone (Product & Propositions Lead), Moneybox (Product Lead → Head of Product, 3yrs 11mos)
+- She thinks in propositions terms: customer value, commercial edge, clarity of offer
+- Flagship achievement: Moneybox Aurora — personalised AI financial guidance, launched Sept 2025; posted about it from MoneyLIVE conference 2 days ago (2026-03-10); visibly proud of it
+- Aurora described as: “blending AI with human expertise to deliver genuinely helpful and trustworthy financial plans”
+- Engineering integration angle: Marko Katavic also at MoneyLIVE discussing AI integration in engineering environment
+
+**Interview Format**
+
+- Duration: 20 minutes (3pm-3:20pm)
+- Format: Competency-based (“tell me about a time when…”) focused on “what you’ll do” and “who you are” sections of JD
+- Preparation required: well-researched on Moneybox mission, explore the app, 2-3 questions prepared
+- Time at end for candidate questions: yes
+
+**Key Framing for Tomorrow**
+
+- Propositions reframe: paywall editor = acquisition proposition; article gifting = sharing/referral proposition; onboarding = early-life proposition; personalised messaging = retention proposition
+- Strongest differentiator vs Tibby’s background: experimentation infrastructure depth — she comes from propositions strategy, less likely to have this depth; genuinely additive
+- Aurora connection: Tom’s personalisation infrastructure work (CDP, behavioural segmentation, targeted comms) is the technical foundation Aurora is built on
+- Regulatory gap: acknowledge honestly, bridge via Apple/Google/IAP/GDPR experience
+
+**Predicted Competency Questions + Best Stories**
+
+1. “0 to 1 product” → Paywall editor (infrastructure gap identified, built case, delivered, +50% CLTV)
+1. “Influence without authority” → Code modularisation onto technical roadmap
+1. “Regulatory/compliance constraints” → IAP flows, Apple/Google platform compliance
+1. “Experimentation to make a decision” → Paywall tab-order test → infrastructure story
+1. “Personalisation at scale” → CDP/Airship/BlueConic personalisation infrastructure at The Economist
+
+**Candidate Questions for Tibby**
+
+1. “Aurora launched in September — what’s your biggest learning from how customers are actually using it versus how you expected them to?”
+1. “How mature is the experimentation capability within Core Product today — and where do you want it to be in 12 months?”
+1. “What does success look like in this role at 6 months?”
 
 ### Rightmove — Technical PM, AI Enablement
 
@@ -72,6 +107,7 @@ Last updated: 2026-03-11 (session 8 — Rightmove Consumer Apps rejection logged
 - Fit verdict: Legitimate opportunity — internal platform stretch, well-positioned
 - Fit confidence: High (upgraded from Medium-High post-call)
 - Positive signals from call:
+
 1. Recruiter walked Tom through all three interview stages unprompted
 1. Recruiter discussed office days (Wednesday and Thursday — matches Tom’s preference perfectly)
 1. Recruiter shared team setup and business strategy detail
@@ -79,10 +115,13 @@ Last updated: 2026-03-11 (session 8 — Rightmove Consumer Apps rejection logged
 1. Recruiter asked which days of the week work best for interviews
 1. Tom’s answers naturally led into recruiter’s next questions — “you’ve already touched on this” said before most questions
 1. Tom asked the adoption blockers question — recruiter said “really good question”
+
 - Interview process (3 stages):
+
 1. Stages 1 and 2: Stakeholder meetings across Engineering and Product — likely competency-based
 1. Stage 3: Case study — how Tom would approach a hypothetical situation
 1. Total: 5–6 team members met across all stages
+
 - Role detail confirmed: Highly technical; reports into Head of Technology Operations (not a Product leader); brand-new team; also hiring an engineering leader and engineers; focused on safe adoption of AI tools for developers and teams across the business
 - Office days confirmed: Wednesday and Thursday ✅
 - Salary confirmed: £90,000 expected (recruiter-stated, unprompted) — update comp strategy accordingly
@@ -100,9 +139,11 @@ Last updated: 2026-03-11 (session 8 — Rightmove Consumer Apps rejection logged
 - Fit verdict: Tough but winnable — structural gap (no game dev background) likely decisive at sift
 - Internal advocate: Staff Data PM (10+ years SIE); confirmed endorsement; named in employee referral field; met for coffee 2026-03-09 at Archetype Coffee, Oxford Circus (Röster recommendation — warm, genuine conversation)
 - Advocate intel from coffee (2026-03-09):
+
 1. DevNet is PlayStation’s developer portal — rebuilt separately for PS3, PS4, and PS5; current investment focus is consolidation into one consistent platform. Likely the core infrastructure problem at the heart of the role.
 1. Matty confirmed relationship is worth maintaining regardless of outcome
 1. Tom was the only candidate from their ~2.5 year old interview process to send a thank-you and ask for feedback — Matty said it demonstrated maturity; explains his ongoing advocacy
+
 - CV version: v3 Deep Optimization
 - Cover letter: v2 final
 - Coach ranking: Archived — Matty relationship retained as long-term network asset
@@ -161,7 +202,29 @@ Last updated: 2026-03-11 (session 8 — Rightmove Consumer Apps rejection logged
 
 ## LinkedIn Analysis
 
-(empty — run `linkedin` to populate)
+- Date: 2026-03-12
+- Depth: Deep Optimization
+- Overall: Needs Work (pre-session) → Strong (post-session)
+- Recruiter discoverability: Weak → Strong
+- Credibility on visit: Moderate → Strong
+- Differentiation: Weak → Strong
+- Updates completed:
+  - Headline rewritten: “Senior Technical PM · Mobile Platform & AI Adoption | Self-Service Experimentation · iOS & Android | 5 yrs consumer mobile”
+  - CSPO removed from name
+  - About section fully rewritten — leads with experimentation infrastructure story, CDO hand-pick detail, AI Champion framing, 58% CLTV narrative told accurately
+  - Banner replaced — custom dark/geometric design replacing Economist corporate banner
+  - Skills top 3 reordered: Technical Product Management, A/B Testing, Mobile Product Management
+  - Featured section populated: Röster post pinned + live PWA link added
+  - Open to Work updated: Technical Product Manager added to roles listed
+  - Marco Salis recommendation (Android Tech Consultant, The Economist) accepted — strong TPM-relevant endorsement (“impressive ability to understand and balance technical aspects”, “isn’t afraid to get his hands dirty in technical discussions”)
+  - Economist experience description rewritten — metrics to front, motivational closing paragraph deleted, AI Champion bullet added
+  - Custom URL already set (no change needed)
+- Top fixes still pending:
+  - Selfridges experience description — tighten, switch to past tense, outcomes-orient
+  - Selling Assistant (John Lewis) — collapse to 1-2 lines
+  - Recommendations — send new requests to: (1) current/recent Economist manager, (2) senior Economist engineering partner, (3) senior Selfridges stakeholder
+  - Return recommendation for Marco Salis — to be drafted (see Coaching Notes)
+- Positioning gaps resolved: LinkedIn now aligned with CV positioning (experimentation infrastructure leads on both surfaces)
 
 ## Resume Optimization
 
@@ -186,16 +249,17 @@ Last updated: 2026-03-11 (session 8 — Rightmove Consumer Apps rejection logged
 
 ### Recent Sessions
 
-|Date      |Commands Run                                       |Key Outcomes                                                                                                                                                                                                                                  |
-|----------|---------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|2026-03-01|kickoff                                            |Profile created; Moneybox and PlayStation assessed                                                                                                                                                                                            |
-|2026-03-01|resume (PlayStation, Deep Optimization)            |Full audit + rewritten CV; 5 priority fixes applied; consumer framing removed                                                                                                                                                                 |
-|2026-03-02|resume (PlayStation, continued) + cover letter     |CV to v3; cover letter to v2 final; application submitted                                                                                                                                                                                     |
-|2026-03-02|coaching-state update (session 3)                  |Rightmove Consumer Apps and Flo Onboarding added; Rightmove TPM screening call logged; Flo rejection logged                                                                                                                                   |
-|2026-03-06|debrief + coaching-state update (session 5)        |Rightmove TPM screening call completed 2026-03-05; strong positive signals documented; salary updated to £90K; interview process mapped (3 stages, competency + case study); coach ranking upgraded to 2nd; thank-you note sent 8am 2026-03-06|
-|2026-03-09|prep + debrief (session 6)                         |PlayStation advocate coffee prep completed; coffee with Matty at Archetype Coffee, Oxford Circus; DevNet consolidation intel captured; relationship strengthened; Röster recommended and used successfully                                    |
-|2026-03-11|coaching-state update (session 7)                  |PlayStation rejection logged; outcome log updated; focus confirmed on Rightmove TPM and Moneybox                                                                                                                                              |
-|2026-03-11|pipeline review + coaching-state update (session 8)|Rightmove Consumer Apps rejection logged (2026-03-06, automated); PlayStation rejection confirmed; Rightmove TPM chaser sent lunchtime; active pipeline consolidated to Rightmove TPM + Moneybox as primary focus                             |
+|Date      |Commands Run                                  |Key Outcomes                                                                                                                                                                                                                                  |
+|----------|----------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|2026-03-01|kickoff                                       |Profile created; Moneybox and PlayStation assessed                                                                                                                                                                                            |
+|2026-03-01|resume (PlayStation, Deep Optimization)       |Full audit + rewritten CV; 5 priority fixes applied; consumer framing removed                                                                                                                                                                 |
+|2026-03-02|resume (PlayStation, continued) + cover letter|CV to v3; cover letter to v2 final; application submitted                                                                                                                                                                                     |
+|2026-03-02|coaching-state update (session 3)             |Rightmove Consumer Apps and Flo Onboarding added; Rightmove TPM screening call logged; Flo rejection logged                                                                                                                                   |
+|2026-03-06|debrief + coaching-state update (session 5)   |Rightmove TPM screening call completed 2026-03-05; strong positive signals documented; salary updated to £90K; interview process mapped (3 stages, competency + case study); coach ranking upgraded to 2nd; thank-you note sent 8am 2026-03-06|
+|2026-03-09|prep + debrief (session 6)                    |PlayStation advocate coffee prep completed; coffee with Matty at Archetype Coffee, Oxford Circus; DevNet consolidation intel captured; relationship strengthened; Röster recommended and used successfully                                    |
+|2026-03-11|coaching-state update (session 7)             |PlayStation rejection logged; outcome log updated; focus confirmed on Rightmove TPM and Moneybox                                                                                                                                              |
+|2026-03-12|linkedin (Deep Optimization)                  |Full profile overhaul completed: headline, about, banner, skills, featured, experience (Economist). Marco recommendation accepted. Coaching state updated. Inbound contract recruiter (Phoebe Sharman) — keep-warm reply sent.                |
+|2026-03-12|Moneybox interview intel + prep               |Tibby Palmer profile analysed; interview format confirmed (20 mins, 3pm, competency-based); JD bridges mapped; propositions reframe documented; Aurora connection identified; candidate questions prepared                                    |
 
 ## Coaching Notes
 
@@ -225,4 +289,5 @@ Last updated: 2026-03-11 (session 8 — Rightmove Consumer Apps rejection logged
 - 2026-03-09: Matty revealed Tom was the only candidate from their ~2.5 year old process to send a thank-you and ask for feedback. Small, considered gestures compound significantly over time. Relationship retained as genuine long-term network asset.
 - 2026-03-11: PlayStation rejection received. Not a surprise. Focus and energy correctly on Rightmove TPM and Moneybox — Tom’s two highest-confidence and most motivating opportunities.
 - 2026-03-11: Rightmove TPM chaser sent lunchtime. Warm, brief — referenced Thursday’s conversation and Friday hiring team catch-up. Still awaiting confirmation. No news over weekend is normal; recruiter process timing.
-- 2026-03-11: Tom feeling positive and energised despite two rejections. Active pipeline now consolidated to two roles (Rightmove TPM, Moneybox) which are also his top two by motivation and fit confidence. Good psychological position to be in. iwoca and Flo remain live but lower priority pending developments.
+- 2026-03-12: LinkedIn Deep Optimization completed. Profile overhauled across all high-impact sections in a single session. Headline, About, banner, skills, Featured all updated. Marco Salis recommendation (unprompted, from lead Android developer at The Economist) accepted — strong TPM-relevant social proof. Return recommendation for Marco to be drafted — need: specific projects worked on together, what made him stand out technically, day-to-day working style, tenure together.
+- 2026-03-12: Inbound recruiter message received from Phoebe Sharman (Head of Product and GTM Recruitment) re: SPM contract role at language learning app, AI incubation hub, £550/day outside IR35, fully remote. Keep-warm reply sent — primarily targeting permanent roles, open to chat early next week. Not a priority given Moneybox interview tomorrow and Rightmove TPM pipeline.
