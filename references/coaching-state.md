@@ -57,49 +57,47 @@ Last updated: 2026-03-11 (session 8 — Rightmove Consumer Apps rejection logged
 
 ### Moneybox — Senior PM, Wealth Propositions & Guidance
 
-- Status: INTERVIEW CONFIRMED — 2026-03-13, 3pm-3:20pm with Tibby Palmer (Head of Product)
-- Recruiter: James at Gravitas Recruitment
+- Status: STAGE 2 CONFIRMED — 2026-03-26, 3pm–3:45pm with Ashleigh Petrie (Director of Product)
+- Recruiter: James at Gravitas Recruitment; STAP: Chloe (Moneybox internal)
 - Fit verdict: Strong fit, high confidence
-- Fit confidence: High
-- Key recruiter intelligence: fintech/propositions experience no longer required; salary flexed to £80-85k; Tom to be put forward at £85k; Moneybox want autonomous creative thinker, not delivery executor
+- Fit confidence: High — progressed after Stage 1 with positive feedback
+- Key recruiter intelligence: fintech/propositions experience no longer required; salary flexed to £80–85k; Tom to be put forward at £85k; Moneybox want autonomous creative thinker, not delivery executor
 - CV version: Moneybox-targeted (decision journeys / guidance-led framing)
 - Coach ranking: 1st
 
-**Interviewer Intel — Tibby Palmer, Head of Product**
+**Stage 1 — COMPLETED 2026-03-17**
 
-- Background: Entire career in propositions and product leadership — BT (Senior Propositions Manager), Vodafone (Product & Propositions Lead), Moneybox (Product Lead → Head of Product, 3yrs 11mos)
-- She thinks in propositions terms: customer value, commercial edge, clarity of offer
-- Flagship achievement: Moneybox Aurora — personalised AI financial guidance, launched Sept 2025; posted about it from MoneyLIVE conference 2 days ago (2026-03-10); visibly proud of it
-- Aurora described as: “blending AI with human expertise to deliver genuinely helpful and trustworthy financial plans”
-- Engineering integration angle: Marko Katavic also at MoneyLIVE discussing AI integration in engineering environment
+- Interviewer: Tibby Palmer, Head of Product
+- Format: Competency-based screen, ran ~30 minutes (scheduled 20)
+- Outcome: PROGRESSED — positive feedback, Stage 2 confirmed
+- Feedback from Tibby (via Chloe):
 
-**Interview Format**
+1. Came across very positively, warm, easy to have a conversation with
+1. Structured answers well; built a clear narrative with good storytelling
+1. Demonstrated good well-rounded understanding of the product lifecycle
+1. Great experience and examples
+1. Clearly demonstrates autonomy — specifically what Tibby is looking for in this role
+1. When challenged on smooth sailing, highlighted code modularisation fight onto commercially-driven roadmap
+1. No critique points — developmental note only: next time Tibby might ask about handling high pressure and friction at work
 
-- Duration: 20 minutes (3pm-3:20pm)
-- Format: Competency-based (“tell me about a time when…”) focused on “what you’ll do” and “who you are” sections of JD
-- Preparation required: well-researched on Moneybox mission, explore the app, 2-3 questions prepared
-- Time at end for candidate questions: yes
+- Off-piste questions and Tom’s answers:
 
-**Key Framing for Tomorrow**
+1. Zero data/feedback: competitor analysis (Mobbin, app downloads), Jakob’s Law principle, commission user research; wouldn’t blindly copy others
+1. Good day: digging into/solving a problem, planning with team (Epic together then team breaks into tickets), speaking to users. Bad day: things on fire, or no-rationale JFDIs — Tibby visibly agreed
+1. Winback offers gone wrong: switch off immediately, triage with devs/QA, beta fix first then production, RCA, well-documented
+1. Engineering planning and stakeholder buy-in thread (spun off paywall discussion)
 
-- Propositions reframe: paywall editor = acquisition proposition; article gifting = sharing/referral proposition; onboarding = early-life proposition; personalised messaging = retention proposition
-- Strongest differentiator vs Tibby’s background: experimentation infrastructure depth — she comes from propositions strategy, less likely to have this depth; genuinely additive
-- Aurora connection: Tom’s personalisation infrastructure work (CDP, behavioural segmentation, targeted comms) is the technical foundation Aurora is built on
-- Regulatory gap: acknowledge honestly, bridge via Apple/Google/IAP/GDPR experience
+**Stage 2 — CONFIRMED 2026-03-26**
 
-**Predicted Competency Questions + Best Stories**
-
-1. “0 to 1 product” → Paywall editor (infrastructure gap identified, built case, delivered, +50% CLTV)
-1. “Influence without authority” → Code modularisation onto technical roadmap
-1. “Regulatory/compliance constraints” → IAP flows, Apple/Google platform compliance
-1. “Experimentation to make a decision” → Paywall tab-order test → infrastructure story
-1. “Personalisation at scale” → CDP/Airship/BlueConic personalisation infrastructure at The Economist
-
-**Candidate Questions for Tibby**
-
-1. “Aurora launched in September — what’s your biggest learning from how customers are actually using it versus how you expected them to?”
-1. “How mature is the experimentation capability within Core Product today — and where do you want it to be in 12 months?”
-1. “What does success look like in this role at 6 months?”
+- Date/time: Thursday 26 March 2026, 3pm–3:45pm (Google Hangout link to follow)
+- Interviewer: Ashleigh Petrie, Director of Product (Tibby’s senior; previously Head of Product at Moneybox before promotion; 2nd connection on LinkedIn; 1 mutual connection)
+- Tibby has two weeks annual leave — Ashleigh stepping in as senior assessor
+- Format: Technical case study (received 10 minutes beforehand; time to read during interview too) + competency questions
+- Case study: hypothetical, not Moneybox-specific; Ashleigh wants to see thought process and problem-solving approach
+- Competency questions: same “what you’ll do” and “who you are” JD focus; reflect on types of questions Tibby asked
+- Key seniority shift: Ashleigh will care less about story mechanics, more about strategic thinking, commercial judgement, autonomous operation at Senior PM level
+- Developmental note from Stage 1 to address: prepare a story about handling high pressure and friction at work
+- Preparation required: well-researched on mission and app; 2–3 questions prepared; no advance case study prep required
 
 ### Rightmove — Technical PM, AI Enablement
 
@@ -249,17 +247,22 @@ Last updated: 2026-03-11 (session 8 — Rightmove Consumer Apps rejection logged
 
 ### Recent Sessions
 
-|Date      |Commands Run                                  |Key Outcomes                                                                                                                                                                                                                                  |
-|----------|----------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|2026-03-01|kickoff                                       |Profile created; Moneybox and PlayStation assessed                                                                                                                                                                                            |
-|2026-03-01|resume (PlayStation, Deep Optimization)       |Full audit + rewritten CV; 5 priority fixes applied; consumer framing removed                                                                                                                                                                 |
-|2026-03-02|resume (PlayStation, continued) + cover letter|CV to v3; cover letter to v2 final; application submitted                                                                                                                                                                                     |
-|2026-03-02|coaching-state update (session 3)             |Rightmove Consumer Apps and Flo Onboarding added; Rightmove TPM screening call logged; Flo rejection logged                                                                                                                                   |
-|2026-03-06|debrief + coaching-state update (session 5)   |Rightmove TPM screening call completed 2026-03-05; strong positive signals documented; salary updated to £90K; interview process mapped (3 stages, competency + case study); coach ranking upgraded to 2nd; thank-you note sent 8am 2026-03-06|
-|2026-03-09|prep + debrief (session 6)                    |PlayStation advocate coffee prep completed; coffee with Matty at Archetype Coffee, Oxford Circus; DevNet consolidation intel captured; relationship strengthened; Röster recommended and used successfully                                    |
-|2026-03-11|coaching-state update (session 7)             |PlayStation rejection logged; outcome log updated; focus confirmed on Rightmove TPM and Moneybox                                                                                                                                              |
-|2026-03-12|linkedin (Deep Optimization)                  |Full profile overhaul completed: headline, about, banner, skills, featured, experience (Economist). Marco recommendation accepted. Coaching state updated. Inbound contract recruiter (Phoebe Sharman) — keep-warm reply sent.                |
-|2026-03-12|Moneybox interview intel + prep               |Tibby Palmer profile analysed; interview format confirmed (20 mins, 3pm, competency-based); JD bridges mapped; propositions reframe documented; Aurora connection identified; candidate questions prepared                                    |
+|Date      |Commands Run                                                      |Key Outcomes                                                                                                                                                                                                                                  |
+|----------|------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|2026-03-01|kickoff                                                           |Profile created; Moneybox and PlayStation assessed                                                                                                                                                                                            |
+|2026-03-01|resume (PlayStation, Deep Optimization)                           |Full audit + rewritten CV; 5 priority fixes applied; consumer framing removed                                                                                                                                                                 |
+|2026-03-02|resume (PlayStation, continued) + cover letter                    |CV to v3; cover letter to v2 final; application submitted                                                                                                                                                                                     |
+|2026-03-02|coaching-state update (session 3)                                 |Rightmove Consumer Apps and Flo Onboarding added; Rightmove TPM screening call logged; Flo rejection logged                                                                                                                                   |
+|2026-03-06|debrief + coaching-state update (session 5)                       |Rightmove TPM screening call completed 2026-03-05; strong positive signals documented; salary updated to £90K; interview process mapped (3 stages, competency + case study); coach ranking upgraded to 2nd; thank-you note sent 8am 2026-03-06|
+|2026-03-09|prep + debrief (session 6)                                        |PlayStation advocate coffee prep completed; coffee with Matty at Archetype Coffee, Oxford Circus; DevNet consolidation intel captured; relationship strengthened; Röster recommended and used successfully                                    |
+|2026-03-11|coaching-state update (session 7)                                 |PlayStation rejection logged; outcome log updated; focus confirmed on Rightmove TPM and Moneybox                                                                                                                                              |
+|2026-03-12|linkedin (Deep Optimization)                                      |Full profile overhaul completed: headline, about, banner, skills, featured, experience (Economist). Marco recommendation accepted. Coaching state updated. Inbound contract recruiter (Phoebe Sharman) — keep-warm reply sent.                |
+|2026-03-12|Moneybox interview intel + prep                                   |Tibby Palmer profile analysed; interview format confirmed (20 mins, 3pm, competency-based); JD bridges mapped; propositions reframe documented; Aurora connection identified; candidate questions prepared                                    |
+|2026-03-12|Moneybox full prep session (evening)                              |Mission verified; Aurora intel confirmed; TMAY drafted; Stories 1–4 fully built with STAR, earned secrets, Moneybox bridges; gap scripts; anchor phrases; metrics primer; morning plan timeboxed; 18-slide prep deck produced                 |
+|2026-03-13|Moneybox interview rescheduled                                    |Tibby unwell; interview moved from 2026-03-13 3pm to 2026-03-17 12:30pm–12:50pm                                                                                                                                                               |
+|2026-03-17|Moneybox Stage 1 interview completed                              |Ran ~30 mins (scheduled 20); positive feedback; progressed to Stage 2. Tibby: warm, storytelling strong, autonomy noted, no critique points. Developmental: prepare high-pressure/friction story                                              |
+|2026-03-18|Stage 2 confirmed; Chloe debrief call                             |Ashleigh Petrie (Director of Product) confirmed as Stage 2 interviewer; 2026-03-26 3pm–3:45pm; format: case study (10 mins beforehand) + competency questions; Tibby on annual leave                                                          |
+|2026-03-23|Coaching state updated with full Stage 1 debrief and Stage 2 intel                                                                                                                                                                                                                                              ||
 
 ## Coaching Notes
 
