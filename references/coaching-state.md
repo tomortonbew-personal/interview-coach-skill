@@ -1,6 +1,6 @@
 # Coaching State — Tom Orton-Bew
 
-Last updated: 2026-03-11 (session 8 — Rightmove Consumer Apps rejection logged; Rightmove TPM chaser sent; PlayStation rejection logged; pipeline consolidated)
+Last updated: 2026-04-05 (session 9 — Moneybox Stage 2 completed 2026-03-26; rejection received 2026-04-02; role criteria updated)
 
 ## Profile
 
@@ -57,13 +57,12 @@ Last updated: 2026-03-11 (session 8 — Rightmove Consumer Apps rejection logged
 
 ### Moneybox — Senior PM, Wealth Propositions & Guidance
 
-- Status: STAGE 2 CONFIRMED — 2026-03-26, 3pm–3:45pm with Ashleigh Petrie (Director of Product)
+- Status: REJECTED — 2026-04-02 (post Stage 2; via Chloe, Moneybox STAP)
 - Recruiter: James at Gravitas Recruitment; STAP: Chloe (Moneybox internal)
-- Fit verdict: Strong fit, high confidence
-- Fit confidence: High — progressed after Stage 1 with positive feedback
+- Fit verdict: Strong fit, high confidence — rejection not a reflection of poor fit; process reached final stage
 - Key recruiter intelligence: fintech/propositions experience no longer required; salary flexed to £80–85k; Tom to be put forward at £85k; Moneybox want autonomous creative thinker, not delivery executor
 - CV version: Moneybox-targeted (decision journeys / guidance-led framing)
-- Coach ranking: 1st
+- Coach ranking: Archived
 
 **Stage 1 — COMPLETED 2026-03-17**
 
@@ -87,9 +86,9 @@ Last updated: 2026-03-11 (session 8 — Rightmove Consumer Apps rejection logged
 1. Winback offers gone wrong: switch off immediately, triage with devs/QA, beta fix first then production, RCA, well-documented
 1. Engineering planning and stakeholder buy-in thread (spun off paywall discussion)
 
-**Stage 2 — CONFIRMED 2026-03-26**
+**Stage 2 — COMPLETED 2026-03-26**
 
-- Date/time: Thursday 26 March 2026, 3pm–3:45pm (Google Hangout link to follow)
+- Date/time: Thursday 26 March 2026, 3pm–3:45pm (Google Hangout)
 - Interviewer: Ashleigh Petrie, Director of Product (Tibby’s senior; previously Head of Product at Moneybox before promotion; 2nd connection on LinkedIn; 1 mutual connection)
 - Tibby has two weeks annual leave — Ashleigh stepping in as senior assessor
 - Format: Technical case study (received 10 minutes beforehand; time to read during interview too) + competency questions
@@ -98,6 +97,26 @@ Last updated: 2026-03-11 (session 8 — Rightmove Consumer Apps rejection logged
 - Key seniority shift: Ashleigh will care less about story mechanics, more about strategic thinking, commercial judgement, autonomous operation at Senior PM level
 - Developmental note from Stage 1 to address: prepare a story about handling high pressure and friction at work
 - Preparation required: well-researched on mission and app; 2–3 questions prepared; no advance case study prep required
+- Outcome: REJECTED — 2026-04-02 (feedback via Chloe)
+
+**Feedback from hiring team (via Chloe, 2026-04-02)**
+
+Positives:
+
+1. Came across as personable, engaging, and confident throughout
+1. Demonstrated credible experience in experimentation, A/B testing, and cross-functional product delivery — spoke with authority
+1. During the case study, identified the “decision moment” as a critical friction point — strong product instinct
+1. Suggestion to reduce browsing overload to help users make faster, more confident choices was well-received
+1. Comfortable discussing behavioural metrics and explaining how testing validates specific changes (e.g. improved repeat ordering)
+1. Overall: solid experience in consumer journey optimisation within experimentation-led environments
+
+Improvements (actionable for future interviews):
+
+1. **Problem diagnosis before solution** — moved too quickly toward a personalisation-led solution before fully diagnosing root causes of the retention problem or testing alternative hypotheses. Take more time to exhaust the problem space first.
+1. **Sharper customer behaviour assessment** — identify specific user segments that are churning; pinpoint exactly what differentiates retained users from those who leave. Segmentation before solution.
+1. **Deeper “why” behind user behaviour** — reducing browsing overload was a sensible direction, but reasoning needed more depth into *why* that specific behaviour exists.
+1. **Data availability thinking** — correctly identified need for signals like order history and cuisine preference, but should have gone further on *how to acquire this data*, particularly for newer users where such signals are sparse.
+1. **Commercial framing** — needed clearer articulation of how the proposed solution would directly impact retention, frequency, and LTV, and why those outcomes matter for broader business strategy. The “so what for the business” layer was underdeveloped.
 
 ### Rightmove — Technical PM, AI Enablement
 
@@ -188,11 +207,12 @@ Last updated: 2026-03-11 (session 8 — Rightmove Consumer Apps rejection logged
 
 ## Outcome Log
 
-|Date       |Company    |Round           |Outcome |Notes                                                                                                                                                                                                    |
-|-----------|-----------|----------------|--------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|~2026-02-21|Flo Health |Application sift|Rejected|Growth PM role; quick rejection suggests early CV sift. Tom subsequently applied to Flo Onboarding PM role on 2026-02-24.                                                                                |
-|2026-03-06 |Rightmove  |Application sift|Rejected|Senior PM, Consumer Apps. Automated rejection from no-reply address. Line management requirement was a hard filter conflict anyway. Separate process from TPM AI Enablement — no impact on that pipeline.|
-|2026-03-11 |PlayStation|Application sift|Rejected|Senior TPM, Partner & Data Products. Structural gap (no game dev background) likely decisive. Internal advocate (Matty) relationship remains intact and warm — genuine long-term network asset.          |
+|Date       |Company    |Round           |Outcome |Notes                                                                                                                                                                                                                                                                                                    |
+|-----------|-----------|----------------|--------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|~2026-02-21|Flo Health |Application sift|Rejected|Growth PM role; quick rejection suggests early CV sift. Tom subsequently applied to Flo Onboarding PM role on 2026-02-24.                                                                                                                                                                                |
+|2026-03-06 |Rightmove  |Application sift|Rejected|Senior PM, Consumer Apps. Automated rejection from no-reply address. Line management requirement was a hard filter conflict anyway. Separate process from TPM AI Enablement — no impact on that pipeline.                                                                                                |
+|2026-03-11 |PlayStation|Application sift|Rejected|Senior TPM, Partner & Data Products. Structural gap (no game dev background) likely decisive. Internal advocate (Matty) relationship remains intact and warm — genuine long-term network asset.                                                                                                          |
+|2026-04-02 |Moneybox   |Stage 2         |Rejected|Senior PM, Wealth Propositions & Guidance. Reached final stage; rejection received via Chloe (STAP) on 2026-04-02, six days after Stage 2 with Ashleigh Petrie (2026-03-26). Strong process overall — Stage 1 positive feedback, progressed quickly. Rejection at final stage does not indicate poor fit.|
 
 ## Drill Progression
 
@@ -247,22 +267,23 @@ Last updated: 2026-03-11 (session 8 — Rightmove Consumer Apps rejection logged
 
 ### Recent Sessions
 
-|Date      |Commands Run                                                      |Key Outcomes                                                                                                                                                                                                                                  |
-|----------|------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|2026-03-01|kickoff                                                           |Profile created; Moneybox and PlayStation assessed                                                                                                                                                                                            |
-|2026-03-01|resume (PlayStation, Deep Optimization)                           |Full audit + rewritten CV; 5 priority fixes applied; consumer framing removed                                                                                                                                                                 |
-|2026-03-02|resume (PlayStation, continued) + cover letter                    |CV to v3; cover letter to v2 final; application submitted                                                                                                                                                                                     |
-|2026-03-02|coaching-state update (session 3)                                 |Rightmove Consumer Apps and Flo Onboarding added; Rightmove TPM screening call logged; Flo rejection logged                                                                                                                                   |
-|2026-03-06|debrief + coaching-state update (session 5)                       |Rightmove TPM screening call completed 2026-03-05; strong positive signals documented; salary updated to £90K; interview process mapped (3 stages, competency + case study); coach ranking upgraded to 2nd; thank-you note sent 8am 2026-03-06|
-|2026-03-09|prep + debrief (session 6)                                        |PlayStation advocate coffee prep completed; coffee with Matty at Archetype Coffee, Oxford Circus; DevNet consolidation intel captured; relationship strengthened; Röster recommended and used successfully                                    |
-|2026-03-11|coaching-state update (session 7)                                 |PlayStation rejection logged; outcome log updated; focus confirmed on Rightmove TPM and Moneybox                                                                                                                                              |
-|2026-03-12|linkedin (Deep Optimization)                                      |Full profile overhaul completed: headline, about, banner, skills, featured, experience (Economist). Marco recommendation accepted. Coaching state updated. Inbound contract recruiter (Phoebe Sharman) — keep-warm reply sent.                |
-|2026-03-12|Moneybox interview intel + prep                                   |Tibby Palmer profile analysed; interview format confirmed (20 mins, 3pm, competency-based); JD bridges mapped; propositions reframe documented; Aurora connection identified; candidate questions prepared                                    |
-|2026-03-12|Moneybox full prep session (evening)                              |Mission verified; Aurora intel confirmed; TMAY drafted; Stories 1–4 fully built with STAR, earned secrets, Moneybox bridges; gap scripts; anchor phrases; metrics primer; morning plan timeboxed; 18-slide prep deck produced                 |
-|2026-03-13|Moneybox interview rescheduled                                    |Tibby unwell; interview moved from 2026-03-13 3pm to 2026-03-17 12:30pm–12:50pm                                                                                                                                                               |
-|2026-03-17|Moneybox Stage 1 interview completed                              |Ran ~30 mins (scheduled 20); positive feedback; progressed to Stage 2. Tibby: warm, storytelling strong, autonomy noted, no critique points. Developmental: prepare high-pressure/friction story                                              |
-|2026-03-18|Stage 2 confirmed; Chloe debrief call                             |Ashleigh Petrie (Director of Product) confirmed as Stage 2 interviewer; 2026-03-26 3pm–3:45pm; format: case study (10 mins beforehand) + competency questions; Tibby on annual leave                                                          |
-|2026-03-23|Coaching state updated with full Stage 1 debrief and Stage 2 intel                                                                                                                                                                                                                                              ||
+|Date      |Commands Run                                                      |Key Outcomes                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+|----------|------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|2026-03-01|kickoff                                                           |Profile created; Moneybox and PlayStation assessed                                                                                                                                                                                                                                                                                                                                                                                                           |
+|2026-03-01|resume (PlayStation, Deep Optimization)                           |Full audit + rewritten CV; 5 priority fixes applied; consumer framing removed                                                                                                                                                                                                                                                                                                                                                                                |
+|2026-03-02|resume (PlayStation, continued) + cover letter                    |CV to v3; cover letter to v2 final; application submitted                                                                                                                                                                                                                                                                                                                                                                                                    |
+|2026-03-02|coaching-state update (session 3)                                 |Rightmove Consumer Apps and Flo Onboarding added; Rightmove TPM screening call logged; Flo rejection logged                                                                                                                                                                                                                                                                                                                                                  |
+|2026-03-06|debrief + coaching-state update (session 5)                       |Rightmove TPM screening call completed 2026-03-05; strong positive signals documented; salary updated to £90K; interview process mapped (3 stages, competency + case study); coach ranking upgraded to 2nd; thank-you note sent 8am 2026-03-06                                                                                                                                                                                                               |
+|2026-03-09|prep + debrief (session 6)                                        |PlayStation advocate coffee prep completed; coffee with Matty at Archetype Coffee, Oxford Circus; DevNet consolidation intel captured; relationship strengthened; Röster recommended and used successfully                                                                                                                                                                                                                                                   |
+|2026-03-11|coaching-state update (session 7)                                 |PlayStation rejection logged; outcome log updated; focus confirmed on Rightmove TPM and Moneybox                                                                                                                                                                                                                                                                                                                                                             |
+|2026-03-12|linkedin (Deep Optimization)                                      |Full profile overhaul completed: headline, about, banner, skills, featured, experience (Economist). Marco recommendation accepted. Coaching state updated. Inbound contract recruiter (Phoebe Sharman) — keep-warm reply sent.                                                                                                                                                                                                                               |
+|2026-03-12|Moneybox interview intel + prep                                   |Tibby Palmer profile analysed; interview format confirmed (20 mins, 3pm, competency-based); JD bridges mapped; propositions reframe documented; Aurora connection identified; candidate questions prepared                                                                                                                                                                                                                                                   |
+|2026-03-12|Moneybox full prep session (evening)                              |Mission verified; Aurora intel confirmed; TMAY drafted; Stories 1–4 fully built with STAR, earned secrets, Moneybox bridges; gap scripts; anchor phrases; metrics primer; morning plan timeboxed; 18-slide prep deck produced                                                                                                                                                                                                                                |
+|2026-03-13|Moneybox interview rescheduled                                    |Tibby unwell; interview moved from 2026-03-13 3pm to 2026-03-17 12:30pm–12:50pm                                                                                                                                                                                                                                                                                                                                                                              |
+|2026-03-17|Moneybox Stage 1 interview completed                              |Ran ~30 mins (scheduled 20); positive feedback; progressed to Stage 2. Tibby: warm, storytelling strong, autonomy noted, no critique points. Developmental: prepare high-pressure/friction story                                                                                                                                                                                                                                                             |
+|2026-03-18|Stage 2 confirmed; Chloe debrief call                             |Ashleigh Petrie (Director of Product) confirmed as Stage 2 interviewer; 2026-03-26 3pm–3:45pm; format: case study (10 mins beforehand) + competency questions; Tibby on annual leave                                                                                                                                                                                                                                                                         |
+|2026-03-23|Coaching state updated with full Stage 1 debrief and Stage 2 intel                                                                                                                                                                                                                                                                                                                                                                                                                                                             ||
+|2026-04-05|coaching-state update (session 9)                                 |Moneybox Stage 2 completed 2026-03-26; rejection received 2026-04-02 via Chloe; Moneybox loop archived in outcome log. Role criteria updated: office days softened to “ideally 2, would consider 3”; gambling added to excluded domains; bonus deprioritised in comp thinking; strong preferences updated to reflect AI/fintech/technical product stimulation over subscription focus; long-term destinations expanded to Monzo, Spotify, Apple, PlayStation.|
 
 ## Coaching Notes
 
@@ -294,3 +315,5 @@ Last updated: 2026-03-11 (session 8 — Rightmove Consumer Apps rejection logged
 - 2026-03-11: Rightmove TPM chaser sent lunchtime. Warm, brief — referenced Thursday’s conversation and Friday hiring team catch-up. Still awaiting confirmation. No news over weekend is normal; recruiter process timing.
 - 2026-03-12: LinkedIn Deep Optimization completed. Profile overhauled across all high-impact sections in a single session. Headline, About, banner, skills, Featured all updated. Marco Salis recommendation (unprompted, from lead Android developer at The Economist) accepted — strong TPM-relevant social proof. Return recommendation for Marco to be drafted — need: specific projects worked on together, what made him stand out technically, day-to-day working style, tenure together.
 - 2026-03-12: Inbound recruiter message received from Phoebe Sharman (Head of Product and GTM Recruitment) re: SPM contract role at language learning app, AI incubation hub, £550/day outside IR35, fully remote. Keep-warm reply sent — primarily targeting permanent roles, open to chat early next week. Not a priority given Moneybox interview tomorrow and Rightmove TPM pipeline.
+- 2026-04-02: Moneybox rejection received via Chloe. Reached Stage 2 — a strong outcome in absolute terms. Rejection at final stage after positive Stage 1 feedback typically means a competitive field at the top, not a fundamental fit problem. Tom’s process at Moneybox was well-executed end to end.
+- 2026-04-05: Role criteria updated. Hard constraints: office days softened (ideally 2, would consider 3 for right role); gambling added to excluded domains; salary floor £85–90k held but bonus deprioritised as a consideration. Strong preferences updated: domain stimulation now explicitly AI, fintech, or technical products — subscription/retention acknowledged as current strengths but not where Tom most wants to be. Long-term destinations expanded: Monzo, Spotify, Apple, PlayStation — deliberate broadening to avoid over-indexing on a single pathway.
