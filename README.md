@@ -1,6 +1,6 @@
 # Interview Coach
 
-A Claude Code-based interview coach that guides you through your entire job search — from first resume review to post-offer negotiation. It scores your answers across five dimensions, diagnoses root causes behind weak spots, builds a storybank you can retrieve under pressure, and adapts its coaching to your specific patterns. Not a generic question bank. An adaptive system that gets sharper the more you use it.
+A Claude Code-based interview coach that covers the full job search lifecycle — from JD analysis and resume optimization through mock interviews to post-offer negotiation. 23 commands across application materials, interview prep, practice, analysis, and comp coaching. It scores your answers across five dimensions, diagnoses root causes behind weak spots, builds a storybank you can retrieve under pressure, and adapts its coaching to your specific patterns. Not a generic question bank. An adaptive system that gets sharper the more you use it.
 
 Say `kickoff`, share your resume, and you're being coached in under 2 minutes.
 
@@ -292,7 +292,48 @@ Runs a complete 4-6 question interview simulation. Formats: behavioral screen, d
 - Signal-reading (did you adapt to interviewer cues?)
 - Per-question scoring + holistic patterns only visible across the full session
 
-### 8) Post-offer negotiation
+### 8) Decode a JD before applying
+
+```text
+decode
+```
+
+Then paste the job description. Get:
+
+- Competency extraction with confidence labels (HIGH/MEDIUM/LOW)
+- 6-lens analysis (repetition frequency, order, required vs. nice-to-have, verb choices, between-the-lines signals, what's missing)
+- Fit assessment against your profile (Strong Fit / Investable Stretch / Long-Shot Stretch / Weak Fit)
+- Recruiter verification questions for uncertain interpretations
+- Teaching layer so you learn to decode JDs yourself
+
+For multiple JDs: paste 2-5 and get batch triage with ranking, your market-validated sweet spot, and allocation recommendations.
+
+### 9) Build your positioning statement
+
+```text
+pitch
+```
+
+Get:
+
+- Core positioning statement anchored to your strongest earned secret
+- Context variants: 10-second elevator, 30-second networking, 60-second recruiter, 90-second interview TMAY
+- Positioning consistency check across resume, LinkedIn, and interview narrative
+
+### 10) Coach an outreach message
+
+```text
+outreach
+```
+
+Then specify message type (cold LinkedIn, warm intro, recruiter reply, etc.) and target. Get:
+
+- Draft critique (if you bring a draft) or guided construction
+- Rewritten message within platform constraints (300 chars for LinkedIn connection requests)
+- Follow-up sequence with timing
+- Earned secret hooks pulled from your storybank
+
+### 11) Post-offer negotiation
 
 ```text
 negotiate
