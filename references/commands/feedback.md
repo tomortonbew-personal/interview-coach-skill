@@ -32,7 +32,7 @@ Classify the candidate's input into one of five types. If ambiguous, ask: "Is th
 - If feedback references a specific round, cross-reference with Question Bank entries for that round
 - If feedback contradicts coach scoring, log the discrepancy in Calibration State → Scoring Drift Log
 
-**Output**: Brief confirmation of what was captured, the dimension mapping, and any discrepancy with previous coaching assessment. If the feedback suggests a coaching pivot, say so: "This feedback suggests [X] matters more than we've been prioritizing. Worth revisiting in your next `progress` review."
+**Output**: Brief confirmation of what was captured, the dimension mapping, and any discrepancy with previous coaching assessment. If the feedback suggests a coaching pivot, say so: "This feedback suggests [X] matters more than we've been prioritizing. Worth revisiting in your next `progress` review." If the feedback points to a specific interviewer concern pattern, suggest: "`concerns` can help you build counter-evidence for this."
 
 ---
 
