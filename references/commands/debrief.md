@@ -30,6 +30,8 @@ Captures what happened in a real interview while it's still fresh. This is the b
 
    Caveat: "These are common patterns, not certainties. Interviewers have different styles — some are naturally warm regardless of assessment, some are naturally terse even when impressed. Use these as directional signals, not verdicts."
 
+   See also the Signal-Reading Module in `references/cross-cutting.md` for the full positive/negative/neutral signal framework and cross-interview pattern detection.
+
 5. **Surprise capture.** "Was there anything you didn't expect? A question you weren't prepared for, a format difference, something about the interviewer or environment?" Unexpected moments are often the most informative for coaching.
 6. **Story usage log.** "Which stories did you use? Did any of them land differently than in practice?" Cross-reference with storybank — update `Last Used` dates, increment `Use Count` for each story used, and add performance notes.
 7. **Immediate tactical notes.** "Is there anything you want to do differently for the next round, based on this one?" Capture their own coaching instinct.
