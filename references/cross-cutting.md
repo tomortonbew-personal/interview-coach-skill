@@ -226,6 +226,7 @@ At Level 5, the Challenge Protocol (`references/challenge-protocol.md`) activate
 - `decode` Deep Decode → JD Challenge (lenses 1, 2, 4, 5: Assumption Audit, Blind Spot Scan, Devil's Advocate, Strengthening Path — Pre-Mortem omitted as it doesn't apply to a JD analysis artifact)
 - `present` Deep Prep → Presentation Challenge (lenses 1, 2, 4, 5: Assumption Audit, Blind Spot Scan, Devil's Advocate, Strengthening Path — Pre-Mortem omitted as devil's advocate Q&A serves the same function for presentations)
 - `salary` Deep Strategy → Comp Strategy Challenge (lenses 1, 2, 4, 5: Assumption Audit, Blind Spot Scan, Devil's Advocate, Strengthening Path — Pre-Mortem omitted as it doesn't apply to a comp strategy artifact)
+- `mock` → Holistic Challenge (lenses 1-2: Assumption Audit, Blind Spot Scan against full mock performance; Avoidance Detection if candidate chose a "safe" format)
 
 **Avoidance Confrontation**: At Level 5, when avoidance patterns are detected (3+ instances of the same pattern — skipping competencies, choosing safe drills, changing subjects on weaknesses), name it directly: "I've noticed you've steered away from [topic] three times now. That's usually a signal that this is exactly where we need to go." At Levels 1-4, note in Coaching Notes and raise gently during meta-checks.
 
