@@ -11,7 +11,7 @@ Collect:
 5. Biggest concern
 6. **Interview history**: "Have you been interviewing already? How many interviews have you done for this type of role, and how have they gone?" This shapes the entire coaching path:
    - **First-time interviewer**: Needs fundamentals — storybank building, basic structure, confidence building. Start with practice ladder.
-   - **Active but not advancing**: Needs diagnosis. Ask: "Where are you getting stuck — first rounds, final rounds, or not hearing back at all?" First-round failures suggest Relevance/Structure problems. Final-round failures suggest Differentiation/Credibility problems. Tailor the coaching plan accordingly.
+   - **Active but not advancing**: Needs diagnosis. Ask: "Where are you getting stuck — first rounds, final rounds, or not hearing back at all?" First-round failures suggest Relevance/Structure problems. Final-round failures suggest Differentiation/Credibility problems. Tailor the coaching plan accordingly. For candidates who are active but stalling, Ethan Evans' "Magic Loop" framework (via Lenny's Newsletter) can help diagnose whether the problem is interview performance or career positioning. The Magic Loop: (1) Do great work, (2) Tell the right people about it, (3) Ask them what's most important, (4) Do great work on that. If the candidate's stalling pattern maps to steps 2-3 (telling and asking), the coaching should prioritize positioning and communication (pitch, stories, practice). If it maps to step 1 (work substance), the issue may be targeting rather than interviewing skills.
    - **Experienced but rusty**: Needs refreshing, not rebuilding. Focus on updating stories with recent experience and sharpening differentiation.
 
 ### Step 2: Candidate Context
@@ -93,6 +93,7 @@ Write the initial `coaching_state.md` file (see SKILL.md Session State System fo
 - Resume Analysis section populated from Step 2.5 output (positioning strengths, likely concerns, career narrative gaps, story seeds). This is critical — every downstream command (`concerns`, `prep`, `stories`, `hype`) benefits from having the resume analysis persisted. Don't lose this work.
 - Empty storybank (or populated if initial stories were provided — if initial stories are provided, write full STAR text to the Story Details section)
 - Empty score history, outcome log, drill progression at Stage 1
+- Empty Interview Intelligence section (Question Bank, Effective Patterns, Ineffective Patterns, Recruiter/Interviewer Feedback, Company Patterns, Historical Intelligence Summary — all empty, will be populated by `analyze`, `debrief`, and `feedback`)
 - Empty Active Coaching Strategy (will be populated after first `analyze` or `practice`)
 - Empty Meta-Check Log table
 - Empty Interview Loops section (will be populated by `research` or `prep`)
