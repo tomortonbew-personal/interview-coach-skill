@@ -212,6 +212,38 @@ SUMMARY STATS:
 - Recommendation clarity: High / Medium / Low
 ```
 
+### Path F: Presentation Round
+
+Used for: system design presentations, business case presentations, portfolio reviews, strategy presentations, technical deep dives — any round where the candidate delivers a prepared presentation followed by Q&A.
+
+Parse into **sections** (not Q&A pairs). Section types: opening, content-section, transition, Q&A, closing.
+
+```
+FOR EACH SECTION, CAPTURE:
+- unit_id: PR1, PR2, etc.
+- section_type: opening / content-section / transition / q-and-a / closing
+- key_claims: [main assertions or conclusions in this section]
+- evidence_quality: [are claims supported with data, examples, or reasoning?]
+- content_density_estimate: [approximate words per minute if inferable — target 130-150 wpm for natural delivery]
+- visual_references: [did the candidate reference slides, diagrams, or artifacts? Were references integrated or awkward?]
+- audience_engagement_cues: [did the candidate check for understanding, invite questions, or read the room?]
+- timing_notes: [did this section run long/short relative to its importance?]
+
+FOR Q&A SECTIONS SPECIFICALLY:
+- questions_asked: [list questions from the audience/panel]
+- answer_quality: [direct vs. evasive, concise vs. rambling, confident vs. defensive]
+- follow_up_handling: [did follow-ups indicate interest (positive) or dissatisfaction (negative)?]
+- unknown_handling: [when the candidate didn't know, did they acknowledge it or bluff?]
+
+SUMMARY STATS:
+- Total estimated duration: ___
+- Content-to-Q&A ratio: ___ (< 60% content may indicate underprepared; > 85% may indicate no room for questions)
+- Opening hook quality: Strong / Adequate / Weak / Missing
+- Closing strength: Clear call-to-action or summary / Trailed off / Ran out of time
+- Questions fielded: ___ (0 may indicate no time left or audience disengagement)
+- Visual integration: High / Medium / Low / No visuals
+```
+
 ---
 
 ## Step 2.5: Anti-Pattern Scan
@@ -283,6 +315,17 @@ In addition to the behavioral anti-patterns above, scan for these format-specifi
 | **No recommendation** | Analyzes thoroughly but never commits to a recommendation | High | "If you had to decide right now" drill. Force a recommendation with rationale. |
 | **Math avoidance** | Skips quantitative analysis when numbers are available | Medium | Quantitative practice. Back-of-envelope calculations build credibility. |
 
+**Presentation Round Anti-Patterns:**
+
+| Anti-Pattern | Detection Heuristic | Severity | Fix |
+|---|---|---|---|
+| **Slide reading** | Candidate reads slides verbatim or near-verbatim instead of speaking to them | High | Slide-as-prompt practice. Each slide should trigger a spoken narrative, not a reading. The slide is the outline; the speaker is the story. |
+| **Time overrun** | Exceeds allotted time, rushes final slides, or skips closing entirely | High | Timing calibration. Practice with a timer. Target 130-150 words per minute. Build a "compressed version" of each section for when time runs short. |
+| **No opening hook** | Jumps directly to content without framing why the presentation matters or what the audience will learn | Medium | Opening-hook drill. First 30 seconds should answer: "Why should I care about this?" before "Here's what I did." |
+| **Q&A deflection** | Avoids direct answers to questions, pivots to rehearsed talking points, or gets defensive under questioning | High | Q&A practice with predicted questions. Acknowledge the question, answer directly, then bridge to supporting evidence. |
+| **Monotone delivery** | No variation in emphasis, energy, or pacing — presentation sounds like a report being read | Medium | Energy-mapping practice. Identify the 2-3 key moments in the presentation and rehearse deliberate emphasis shifts at those points. |
+| **Missing "so what"** | Presents data, process, or methodology without connecting to business impact or audience relevance | High | Impact chain drill. Every section should end with: "This mattered because..." |
+
 ---
 
 ## Step 3: Multi-Lens Scoring
@@ -323,6 +366,12 @@ These supplement the core 5 dimensions — they do not replace them. Score each 
 - **Mode-Switching Fluidity** (1-5): How cleanly the candidate transitioned between technical and behavioral modes. 1 = confused or jarring, 5 = seamless transitions.
 - **Integration Quality** (1-5): How well the candidate connected technical decisions to behavioral context. 1 = no connection, 5 = naturally wove both together.
 - **Energy Trajectory** (1-5): How energy/quality held up across the full mixed session. 1 = significant drop in second half, 5 = maintained or improved.
+
+**Presentation Round:**
+- **Content Density Management** (1-5): How well the candidate calibrated depth to time constraints. 1 = ran significantly over or rushed through critical sections, 5 = natural pacing throughout with deliberate time allocation across sections.
+- **Narrative Arc** (1-5): How well the presentation told a coherent story from opening to close. 1 = disconnected sections with no through-line, 5 = compelling arc where each section built on the last and the closing tied back to the opening hook.
+- **Q&A Adaptability** (1-5): How well the candidate handled audience questions. 1 = defensive, evasive, or lost composure, 5 = graceful engagement that demonstrated depth beyond the prepared content.
+- **Audience Calibration** (1-5): How well the content matched the audience's level and interests. 1 = wrong level entirely (too technical for executives, too high-level for engineers), 5 = clearly tailored with audience-appropriate framing, examples, and depth.
 
 ### Lens 1: Hiring Manager Perspective
 
@@ -572,4 +621,3 @@ The following pattern metrics are captured inline in the analysis output (Anti-P
 - Top 3 weak competencies
 - Top 3 overused crutches
 - Trend vs. previous analysis (improving/stagnant/declining per dimension)
-
