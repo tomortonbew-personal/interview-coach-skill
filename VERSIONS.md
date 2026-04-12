@@ -55,9 +55,77 @@ Company research was unstructured. Now includes 3 depth levels (Quick Scan, Stan
 
 ---
 
-## v3: Interaction Model (planned)
+## v3: Full Lifecycle (shipped)
 
-**Thesis**: Now that the coaching brain is strong, change *how* candidates interact with it.
+**Thesis**: v2 made the coaching brain deep. v3 makes the system comprehensive — covering every surface where candidates interact with the job market, and tightening cross-command integration across all 23 commands.
+
+v1 and v2 focused on the interview itself: prep, practice, scoring, and post-interview analysis. But candidates spend more time on resumes, LinkedIn profiles, outreach messages, JD analysis, presentations, and salary conversations than they do in actual interviews. v3 extends the coaching engine to every surface that affects job search outcomes.
+
+### Feature 1: Application Materials Commands
+Three new commands for the artifacts candidates build before they ever interview.
+
+**`resume`** — Holistic resume optimization across 8 dimensions (ATS parsing, recruiter scan behavior, bullet quality, seniority calibration, keyword coverage, structure, concern management, cross-surface consistency). Three depth levels. When a storybank exists, the storybank-to-bullet pipeline mines earned secrets and quantified outcomes for resume bullets. When a JD is available, produces a targeted version optimized for that specific application.
+
+**`linkedin`** — Platform-native LinkedIn optimization. Treats LinkedIn as its own game — recruiter boolean search mechanics, algorithm distribution, section-specific impact — not a resume copy. Three depth levels from quick audit to deep optimization with content strategy.
+
+**`pitch`** — Core positioning statement: the atomic unit of self-presentation. Uses curiosity-gap hooks, earned-secret anchoring, and a Present-Past-Future formula to produce variants at every duration (10s elevator through 90s interview TMAY). Saved to coaching state and consumed by `resume`, `linkedin`, and `outreach` for cross-surface consistency.
+
+**Key files**: `references/commands/resume.md` (new), `references/commands/linkedin.md` (new), `references/commands/pitch.md` (new)
+
+### Feature 2: Networking and Outreach
+**`outreach`** — Coaches the full networking lifecycle: cold LinkedIn messages, warm introductions, informational interview asks, recruiter replies, follow-up sequences, and referral requests. Three depth levels from quick templates to full multi-channel campaign strategy. Messages are built on the candidate's Positioning Statement so every outreach is differentiated. Includes platform mechanics (LinkedIn's 300-char connection request limit, optimal cold email length, InMail response rates).
+
+**Key files**: `references/commands/outreach.md` (new)
+
+### Feature 3: JD Analysis and Targeting
+**`decode`** — Analyzes job descriptions using 6 decoding lenses (repetition frequency, order and emphasis, required vs. nice-to-have, verb choices, between-the-lines signals, what's missing) with confidence labels on every interpretation. Maps extracted competencies against the candidate's profile for a fit verdict. Batch triage mode compares 2-5 JDs to find the candidate's sweet spot. Includes a teaching layer so candidates learn to decode JDs themselves.
+
+**Key files**: `references/commands/decode.md` (new)
+
+### Feature 4: Presentation Round Coaching
+**`present`** — Fills the prep gap for presentation-format interviews (system design presentations, business cases, portfolio reviews, strategy presentations, technical deep dives). Coaches narrative structure using 4 arc frameworks, calibrates content density against time limits, and prepares for Q&A with predicted questions and answer strategies. Three depth levels. Added corresponding presentation transcript parsing path and format-specific scoring dimensions (Content Density Management, Narrative Arc, Q&A Adaptability, Audience Calibration).
+
+**Key files**: `references/commands/present.md` (new), `references/transcript-processing.md` (Path F), `references/rubrics-detailed.md` (presentation dimensions)
+
+### Feature 5: Early-Process Comp Coaching
+**`salary`** — Coaches the highest-leverage compensation moments that happen before an offer exists: the recruiter screen "what are your salary expectations?" question, salary history handling, and application form strategy. Guides candidates through comp research, range construction, and stage-specific scripts. Hands off to `negotiate` when a formal offer arrives.
+
+**Key files**: `references/commands/salary.md` (new)
+
+### Feature 6: Cross-Cutting Quality Pass
+28 enhancements across all 23 commands, driven by a systematic audit:
+
+- **Career transition detection** (5 types) in `kickoff` with mid-search profile update protocol
+- **Anxiety-profile personalization** (5 profiles) in `hype` with format-specific warmup
+- **Signal interpretation guide** (8 signals) in `debrief` with positioning performance check
+- **Offer comparison normalization** (7 components) in `negotiate`
+- **Diagnostic router** (9 problem-to-command mappings) in `help`
+- **Staleness detection** (3 time thresholds) in `research`
+- **Redo mechanism** and progression stage calibration in `mock`
+- **Guided extraction prompts** for recruiter feedback in `feedback`
+- **12 new cross-command integration points** wiring commands together (prep consumes decode output, concerns uses Outcome Log, questions uses intelligence data, stories consumes narrative identity, etc.)
+- **3 new schema fields** (Anxiety profile, Career transition, Transition narrative status) with backward-compatible migration rules
+- **Gap-Handling Module integration** into `practice`, `mock`, and `stories` — gap response patterns prescribed by storybank score
+- **Differentiation in non-interview contexts** — earned secrets applied to resume bullets, LinkedIn sections, pitch hooks, and outreach messages
+- **Presentation round scoring and parsing** — 4 format-specific scoring dimensions, transcript parsing path, and anti-pattern detection for presentation interviews
+- **Level 5 Challenge Protocol** extended to all new commands + `mock`
+- **Format Discovery deduplication** — discovered once in `prep`, saved to Interview Loops, reused by `mock`, `hype`, and `practice`
+- **7 new worked examples** in `examples.md` calibrating output quality for decode, resume, pitch, linkedin, outreach, present, and salary
+
+### Feature 7: Schema and Migration Hardening
+4 schema migration gap fixes ensuring older `coaching_state.md` files fully upgrade:
+- Missing `Known interview formats` Profile field
+- Missing `Interview Intelligence` section in migration check
+- `Signal` → `Hire Signal` column rename backward compatibility
+- Interview Loops per-entry fields (Status, Round formats, Fit verdict, etc.)
+
+**Key files**: `SKILL.md` (schema migration rules), `references/commands/kickoff.md` (Interview Intelligence for new users)
+
+---
+
+## v4: Interaction Model (planned)
+
+**Thesis**: Now that the coaching brain is strong and comprehensive, change *how* candidates interact with it.
 
 ### Voice Mode for Practice/Mock
 Scoped tightly to `practice`, `mock`, and `hype` warmups. The candidate speaks, the system listens, scores delivery alongside content (filler words, pacing, confidence, hedging language). Doesn't replace text for `prep` or `progress` — those need structured output. But practice and mocks become dramatically more realistic with voice.
@@ -76,7 +144,7 @@ A friend or mentor can review your storybank and leave comments. Still file-base
 
 ---
 
-## v4: Platform (planned)
+## v5: Platform (planned)
 
 **Thesis**: The coaching engine is proven. Now make it accessible to people who'll never touch a CLI.
 
@@ -96,4 +164,6 @@ With enough users, the system can surface patterns across candidates: "Candidate
 
 ## Version Tension
 
-v2 is clearly the right step after v1 — it makes the product meaningfully better for current users without architectural risk. v3 is exciting but expensive (voice, UI, integrations). v4 is a different company. The mistake would be jumping to v3/v4 before v2 has proven that the coaching engine actually moves candidate outcomes.
+v3 was the natural next step after v2 — it extended the coaching engine to every surface that matters in a job search without requiring any architectural changes. The system is now comprehensive: 23 commands covering resume through retrospective, with cross-command integration wiring that makes the whole greater than the parts.
+
+v4 is exciting but expensive (voice, UI, integrations). v5 is a different company. The risk now is premature platforming before v3 has proven that full-lifecycle coaching moves candidate outcomes better than interview-only coaching.
