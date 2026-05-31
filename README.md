@@ -131,6 +131,7 @@ For both options, the coach will ask for your resume, target role, and timeline 
 | `resume` | Resume optimization (3 depth levels, JD-targeted when available) | ATS audit, section-by-section assessment, bullet rewrites, seniority calibration, keyword analysis, storybank-to-bullet pipeline |
 | `pitch` | Core positioning statement + context variants | Core statement, constraint ladder, context-specific pitches, positioning consistency check |
 | `outreach` | Networking outreach coaching (3 depth levels, 9 message types) | Message frameworks, draft critique + rewrite, follow-up sequences, multi-channel campaign strategy |
+| `apply [company]` | Draft written answers to job application screening questions | Story selection menu per question (with domain match flagging), ready-to-paste answers, prior answer reuse, flagged gaps |
 
 ### Pre-Conversation
 
@@ -333,7 +334,28 @@ Then specify message type (cold LinkedIn, warm intro, recruiter reply, etc.) and
 - Follow-up sequence with timing
 - Earned secret hooks pulled from your storybank
 
-### 11) Post-offer negotiation
+### 11) Answer job application screening questions
+
+```text
+apply HireRight
+```
+
+Then provide:
+
+- List of application questions (paste them directly)
+- Optional: JD (used for domain matching and "why us" questions)
+- Optional: word or character limits per question
+
+Expected output:
+
+- Per-question story selection menu (2-3 options, with `[Domain match]` flag when a story comes from the same industry as the company)
+- Prior answer suggestions when a similar question was answered for another company
+- Ready-to-paste written answers in written register (150-200 words each, tighter than spoken interview answers)
+- Flagged gaps where storybank or resume evidence is missing — no answer gets fabricated
+
+Answers are saved to `job-search/[company]_application.md` and reused as a library across future applications.
+
+### 12) Post-offer negotiation
 
 ```text
 negotiate
@@ -412,6 +434,7 @@ interview-coach-skill/
     │   ├── progress.md
     │   ├── negotiate.md
     │   ├── feedback.md
+    │   ├── apply.md
     │   ├── reflect.md
     │   └── help.md
     ├── cross-cutting.md                # Shared modules: gap-handling, signal-reading, differentiation, cultural awareness, psychological readiness, cross-command dependencies
@@ -443,6 +466,7 @@ interview-coach-skill/
 10. Run `decode` before applying — analyze the JD's language, assess your fit, and decide if the role is worth your time. Use batch triage to compare multiple JDs at once.
 11. Run `salary` before your first recruiter call — the recruiter screen is the highest-leverage comp moment, not the offer negotiation.
 12. Run `present` before a presentation round — structure your content and prepare for Q&A before you ever open PowerPoint.
+13. Run `apply` when a job application includes screening questions — it surfaces domain-relevant stories, checks your storybank for evidence before drafting, and builds a reusable answer library across applications.
 
 ---
 
