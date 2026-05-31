@@ -1,40 +1,42 @@
 # Coaching State — Tom Orton-Bew
 
-Last updated: 2026-04-05 (session 9 — Moneybox Stage 2 completed 2026-03-26; rejection received 2026-04-02; role criteria updated)
+Last updated: 2026-05-31 (session 10 — full pipeline reconciliation against job tracker; UW COREX first-stage interview imminent; Moneybox P&I and Zego live; Bunch/Skyscanner/Trainline/Spotify Subscriptions added; role criteria and positioning refreshed)
 
 ## Profile
 
-- Target role(s): Senior PM – Wealth Propositions & Guidance (Moneybox) | Senior Technical PM – Creator/Partner Products (PlayStation) | Technical PM – AI Enablement (Rightmove) | Senior PM – Consumer Apps (Rightmove) | PM – Onboarding (Flo Health) | Lead PM – Mobile App (iwoca)
-- Seniority band: Senior PM (upward move from current PM title); Flo Onboarding is PM title at £80–90K; iwoca is Lead PM at £100–130K (step up)
+- Target role(s): Senior PM – COREX / Core Customer Experience (Utility Warehouse) | PM – Pension & Investing (Moneybox) | Senior PM (Zego) | Senior PM, App (Skyscanner) | PM – Mortgages, Native Apps (Rightmove) | Senior PM (Trainline) | Senior PM, Subscriptions Mission (Spotify)
+- Seniority band: Currently titled Product Manager (PM). Applying to Senior PM roles is a STEP UP, not lateral. At-level PM roles (e.g. Moneybox P&I, Rightmove Mortgages) positioned at £80–85k; Senior PM targets at £85–90k+.
 - Track: Quick Prep
-- Feedback directness: 3 (Balanced)
-- Interview timeline: Flo Onboarding applied 2026-02-24; Rightmove Consumer Apps applied 2026-02-26; Rightmove TPM AI Enablement applied 2026-02-28 (screening call booked); PlayStation applied 2026-03-01; Moneybox applied via recruiter (awaiting confirmation); iwoca — recruiter conversation initiated with Louise Smith (Burns Sheehan), awaiting call before applying
+- Feedback directness: 3 (Balanced) — Tom explicitly values honest, critical assessment over validation
+- Interview timeline: UW COREX first-stage interview scheduled 2026-06-03 9am; Zego call with Louise (Burns Sheehan) Monday 2026-06-01 afternoon; Moneybox P&I awaiting hiring-manager feedback via Chloe
 - Time-aware coaching mode: Focused
-- Biggest concern: Facing redundancy; wife and 6-month-old son financially dependent; tough market
+- Biggest concern: Redundancy from The Economist; wife and young son financially dependent; tough market; runway roughly eight months (as flagged mid-May). Coaching should stay efficient and high-leverage, not add anxiety.
 
 ## Resume Analysis
 
 - Positioning strengths:
 
-1. Experimentation infrastructure ownership — built self-service A/B tooling that removed engineering dependencies; signals systems thinking not just execution
-1. Commercial outcomes with proof — +58% CLTV, +36% YoY, 3%+ conversion held; credible and specific
-1. Technical depth that stays customer-connected — rearchitecture, SDK integration, deep linking, always framed around user outcomes not technology
+1. Experimentation infrastructure ownership — built self-service A/B tooling that removed engineering dependencies and served Marketing and Customer Operations; signals systems thinking, not just execution
+1. React Native → native Swift/Kotlin rearchitecture — squad-level product and architectural decision-making; maps almost 1:1 to UW's IA / multi-domain-team challenge
+1. Subscription lifecycle depth — paywall restructure, CLTV improvement, subscription mix shift; credible and specific (metrics softened to directional for professional discretion)
+1. "Builder PM" differentiator — Röster PWA (Lovable), n8n self-hosted job-scraping pipeline (Hetzner VPS, Docker, Claude Haiku scoring, ntfy.sh), daily Claude Code use, AI Champion designation at The Economist. Genuine, not aspirational. Most valuable POST-first-contact, not at cold-application stage.
 
 - Likely interviewer concerns:
-  - Moneybox: Zero regulated financial services / fintech experience; FCA consumer duty gap; ~5.5 years PM vs. 6+ years required
-  - PlayStation: No professional game dev background — structural gap, harder to bridge
-  - iwoca: B2B/SME customer context (entire background is B2C); seniority step up (first time as most senior mobile PM without Head of Product layer above him)
-  - All roles: Currently titled “Product Manager” targeting Senior/Lead PM — seniority readiness question plausible
+  - Regulated / fintech depth: limited FCA / regulated-environment story (relevant for Moneybox, Zego, Coutts) — frameable via Apple/Google compliance and entitlements work
+  - "Too corporate" risk: live signal from Birda feedback (Economist/Selfridges institutional flavour). Primary counters = AI-in-Practice evidence and autonomous infrastructure shipping. Most acute at small/fast-moving teams.
+  - Scale-up gap: Louise (Zego) flagged Tom hasn't worked in a scale-up / founder environment, which Zego typically favours
+  - Title step: currently PM applying to Senior PM — seniority-readiness question plausible
+  - Payments-infrastructure depth: rejection cluster at Stripe and Wise (×2/×3) suggests established regulated banking-infrastructure roles aren't converting; current targeting works around this
 - Career narrative gaps:
-  - Consumer-facing (serving users) → platform/tooling (serving developers/creators): no bridge story yet — critical for PlayStation
-  - No regulated environment story: will be questioned at Moneybox and iwoca
-  - B2C → B2B: no bridge story — will be questioned at iwoca
+  - B2C → regulated fintech: developing; bridge via compliance/entitlements and subscription-trust framing
+  - Design-system custodianship: claimed via platform patterns from rearchitecture, not as a named custodian — have honest interview answer ready (relevant for UW)
 - Story seeds:
   - Self-service paywall A/B infrastructure (how scoped, who resisted, how it changed team behaviour)
   - App rearchitecture React Native → Swift/Kotlin (multi-quarter, what went wrong, risk management)
-  - +58% CLTV through paywall tab reorder (what was the insight? what didn’t work first?)
-  - Black Friday +36% YoY (coordination story — who needed aligning, what nearly derailed it?)
+  - CLTV improvement through paywall restructure (what was the insight? what didn't work first?)
+  - Black Friday / commercial coordination story (who needed aligning, what nearly derailed it?)
   - Selfridges analytics dashboard for 300+ stakeholders (who pushed back, what changed as a result?)
+  - High-pressure / friction story — code-modularisation fight onto a commercially-driven roadmap (surfaced at Moneybox Stage 1)
 
 ## Storybank
 
@@ -47,7 +49,10 @@ Last updated: 2026-04-05 (session 9 — Moneybox Stage 2 completed 2026-03-26; r
 
 ## Active Coaching Strategy
 
-(empty — to be populated after first practice or analyze session)
+- Diagnostic framing before solution: the sharpest development point (Moneybox Stage 2 feedback). Exhaust the problem space and segment customer behaviour BEFORE jumping to solutions. CVs now use diagnostic verbs (Diagnosed, Identified, Mapped); summary foregrounds friction identification and opportunity-uncovering ahead of roadmap demand.
+- Lead with insight or strategic decision, not output administered. "Identified X as Y → outcome Z" pattern. Name the constraint or difficulty, not just the outcome.
+- Strategic-trajectory fit: filter hard constraints first, then ask whether a role builds toward Monzo/Spotify/Apple/PlayStation or sideways. Comfort-zone alignment at below-floor comp is a trap. Path A = fintech/AI-native consumer products → Monzo. Path B = consumer mobile depth now, fintech later. UW COREX and Moneybox are on-path; pure subscription-growth roles risk deepening a typecast Tom is actively managing.
+- Warm contacts >> cold applications for senior roles at target companies (ATS keyword filters typically surface only the top fraction for human review).
 
 ## Calibration State
 
@@ -55,164 +60,130 @@ Last updated: 2026-04-05 (session 9 — Moneybox Stage 2 completed 2026-03-26; r
 
 ## Interview Loops
 
-### Moneybox — Senior PM, Wealth Propositions & Guidance
+### Utility Warehouse — Senior PM, Core Customer Experience (COREX)
 
-- Status: REJECTED — 2026-04-02 (post Stage 2; via Chloe, Moneybox STAP)
-- Recruiter: James at Gravitas Recruitment; STAP: Chloe (Moneybox internal)
-- Fit verdict: Strong fit, high confidence — rejection not a reflection of poor fit; process reached final stage
-- Key recruiter intelligence: fintech/propositions experience no longer required; salary flexed to £80–85k; Tom to be put forward at £85k; Moneybox want autonomous creative thinker, not delivery executor
-- CV version: Moneybox-targeted (decision journeys / guidance-led framing)
-- Coach ranking: Archived
+- Status: FIRST-STAGE INTERVIEW SCHEDULED — 2026-06-03 9am
+- Applied: 2026-05-14
+- Salary: £90,000–£95,000 band; Lauren positioning Tom upper-middle
+- Office: 1–2 days, flexible (stated flexibility to go lower) ✅
+- Recruiter: Lauren Stuart (PulseRecruit). Internal recruiter: Claire Fennell (Senior Recruitment Business Partner — NOT the hiring manager; the "Claire" confusion arose from Lauren name-dropping her on the recruiter call)
+- Hiring manager: Kathryn Carter, Head of Product – Customer Experience (joined June 2024; ex-British Airways digital experience, Deloitte Digital). Likely first-stage interviewer.
+- Engineering counterpart: Kévin Le Jeune, Head of Engineering — more relevant at Stage 2
+- Fit verdict: Strong fit
+- Role detail: UW's flagship customer app — React Native + Next.js super-app spanning Energy, Broadband, Mobile, Insurance, Cashback Card. Hearth Design System migration underway (replacing legacy native-ui/web-ui packages). Five substantial deliverables: Welcome Experience / digital adoption, multi-service onboarding, design-system custodianship (100% adoption), app/web IA redesign (the "technical bottleneck" — domain teams contributing autonomously while keeping a cohesive UX), digital billing summary. IC next step: Principal PM.
+- Top 5 competencies (priority order): (1) app architecture & IA redesign — HIGH; (2) multi-service/super-app consumer experience ownership — HIGH; (3) customer journey mapping & friction elimination — HIGH; (4) data-driven friction identification (proactive workstream creation) — HIGH; (5) design-system custodianship & 100% adoption — MEDIUM/differentiating
+- Key signal: Claire/Kathryn's most-weighted trait is "proactive — identify and create your own workstream." Autonomy/initiative is the #1 cultural test — Lovable PWA, n8n self-build, and self-service paywall infrastructure are concrete proof.
+- Business context: Parent Telecom Plus PLC (LSE: TEP, FTSE 250, ~£825m market cap). ~1.39m customers, ~3.65m services; medium-term north-star 2m customers. CEO Stuart Burnett; founder Charles Wigoder chair. Sold via ~77,000-strong self-employed Partner network rather than mass advertising. FCA-regulated.
+- CV version: Consumer Experience base, tailored — Key Achievements lead with React Native rearchitecture; summary echoes Claire's autonomous-contribution language; skills lead with customer journey mapping and IA; "design systems" added as keyword. Röster link on contact line.
+- Prep assets: Full deep-dive brief produced 2026-05-14 (business, financials, app/tech stack, design-system status, competitive positioning vs Octopus/Sky, Glassdoor, regulatory context, eight strategic hooks, twelve interview questions, two pre-call actions).
+- Outreach intel: Former Economist Design Manager identified as contact for design-system custodianship intel — both practical prep and a natural interview story demonstrating the proactive trait.
+- Coach ranking: 1st (live, imminent, strong fit, warm recruiter channel)
 
-**Stage 1 — COMPLETED 2026-03-17**
+### Moneybox — PM, Pension & Investing
 
-- Interviewer: Tibby Palmer, Head of Product
-- Format: Competency-based screen, ran ~30 minutes (scheduled 20)
-- Outcome: PROGRESSED — positive feedback, Stage 2 confirmed
-- Feedback from Tibby (via Chloe):
+- Status: APPLIED / WARM REFERRAL ACTIVE — CV re-flagged to hiring manager by Chloe; awaiting hiring-manager feedback
+- Applied: 2026-05-17 (cold application via Lever as backstop; Chloe then re-flagged internally)
+- Salary: Put forward £80,000–£85,000
+- Office: 2 days office, 3 WFH ✅
+- Recruiter / contacts: James (Gravitas — unresponsive: LinkedIn note + voicemail + second call, no answer). Chloe Samarasinghe (Senior Talent Acquisition Partner, Moneybox — warm, actively advocating).
+- Hiring manager: Head of Product, Pension & Investing — DIFFERENT from Tibby (who hired for the Senior PM Wealth role). Previous warm relationships with Tibby/Ashleigh do not transfer directly; tempers enthusiasm slightly.
+- Agency nuance: Tom's prior Gravitas submission (Senior PM Wealth) is still inside the ~6-month representation window, so Moneybox must honour the agency relationship. Chloe confirmed "this isn't a problem" and is managing it. Future: a friendly heads-up to James may be warranted IF Tom progresses to screen.
+- Fit verdict: Strong competency fit. Title is a lateral/at-level move, not the Senior PM progression Tom targets — pursued on strength of warm relationship, right company, right direction, sensible runway logic.
+- Updated screen probability (Claude's read): ~65–70%
+- Plan: replied briefly to Chloe to acknowledge and close the thread; wait resumes with CV in hiring manager's hands. Prep IQ app with STAR questions/answers when screen confirmed.
+- Coach ranking: 2nd (warm channel; on-path; awaiting hiring-manager decision)
 
-1. Came across very positively, warm, easy to have a conversation with
-1. Structured answers well; built a clear narrative with good storytelling
-1. Demonstrated good well-rounded understanding of the product lifecycle
-1. Great experience and examples
-1. Clearly demonstrates autonomy — specifically what Tibby is looking for in this role
-1. When challenged on smooth sailing, highlighted code modularisation fight onto commercially-driven roadmap
-1. No critique points — developmental note only: next time Tibby might ask about handling high pressure and friction at work
+### Zego — Senior PM
 
-- Off-piste questions and Tom’s answers:
+- Status: IN PROGRESS — call with Louise (Burns Sheehan) Monday 2026-06-01 afternoon
+- Salary: £85,000 + bonus + stock options
+- Office: 1–2 days PER MONTH in office (Bank/Monument, EC3M) ✅✅ (very low)
+- Recruiter: Louise (Burns Sheehan). She named Zego as the client directly.
+- Recruiter flag: the one thing she thinks Tom is missing is scale-up / founder background — Zego typically hire from scale-ups. Quietly building the AI-native case early is useful groundwork.
+- Company: UK insurtech (founded 2016, FCA-regulated, trading as Extracover). Consumer side = Sense (app-based telematics car insurance, rewards for safe driving). Commercial/gig side = delivery/private-hire/van insurance (Deliveroo, Just Eat, Uber, Bolt, Amazon Flex). Tens of millions of policies; $200m+ raised. Major AI push across product and platform stack — AI embedded in how systems are built, not just a feature. Building on Claude tooling.
+- Hard-constraint check: FCA-regulated consumer financial services ✅ fintech interest. Gig side is B2B2C with individual drivers as end users — NOT enterprise/procurement-led B2B. Telematics-rewards model is clean — not gambling- or adtech-adjacent. ✅
+- Intel question for Monday: which product area — consumer Sense app vs commercial/delivery side (tells Tom whether it's pure-B2C work he wants or leans platform/fleet)
+- Reply sent to Louise (warm, peer-register; planted "strong fit" and Claude-tooling overlap before Monday; will read full Workable JD + Sten's post over the weekend)
+- CV version: not yet tailored
+- Coach ranking: 3rd (excellent office terms, AI-native, clean fit; scale-up gap to manage)
 
-1. Zero data/feedback: competitor analysis (Mobbin, app downloads), Jakob’s Law principle, commission user research; wouldn’t blindly copy others
-1. Good day: digging into/solving a problem, planning with team (Epic together then team breaks into tickets), speaking to users. Bad day: things on fire, or no-rationale JFDIs — Tibby visibly agreed
-1. Winback offers gone wrong: switch off immediately, triage with devs/QA, beta fix first then production, RCA, well-documented
-1. Engineering planning and stakeholder buy-in thread (spun off paywall discussion)
+### Skyscanner — Senior PM, App
 
-**Stage 2 — COMPLETED 2026-03-26**
+- Status: APPLIED — 2026-05-23
+- Salary: £90,000–£100,000
+- Office: TBC
+- Company note: owned by Trip.com
+- Coach ranking: opportunistic (consumer mobile, on-band; no warm channel yet)
 
-- Date/time: Thursday 26 March 2026, 3pm–3:45pm (Google Hangout)
-- Interviewer: Ashleigh Petrie, Director of Product (Tibby’s senior; previously Head of Product at Moneybox before promotion; 2nd connection on LinkedIn; 1 mutual connection)
-- Tibby has two weeks annual leave — Ashleigh stepping in as senior assessor
-- Format: Technical case study (received 10 minutes beforehand; time to read during interview too) + competency questions
-- Case study: hypothetical, not Moneybox-specific; Ashleigh wants to see thought process and problem-solving approach
-- Competency questions: same “what you’ll do” and “who you are” JD focus; reflect on types of questions Tibby asked
-- Key seniority shift: Ashleigh will care less about story mechanics, more about strategic thinking, commercial judgement, autonomous operation at Senior PM level
-- Developmental note from Stage 1 to address: prepare a story about handling high pressure and friction at work
-- Preparation required: well-researched on mission and app; 2–3 questions prepared; no advance case study prep required
-- Outcome: REJECTED — 2026-04-02 (feedback via Chloe)
+### Rightmove — PM, Mortgages (Native Apps)
 
-**Feedback from hiring team (via Chloe, 2026-04-02)**
+- Status: APPLIED — 2026-05-15
+- Salary: positioned at £80,000–£85,000
+- Office: 2 days office, 3 WFH ✅
+- Reports to: Senior Product Manager
+- Role: Native Apps Mortgages team — personalised, deeply integrated affordability experience for highly engaged consumers on iOS/Android. Squarely in Tom's wheelhouse (5 years consumer iOS/Android).
+- Warm-contact play: reconnect outreach to Tom Middleton (TA, Rightmove) drafted — references the earlier AI Enablement conversation, the new Mortgages application, and staying in touch. Follow-up pending.
+- CV version: CV and cover letter produced
+- Coach ranking: opportunistic (on-band; in wheelhouse; warm-ish contact via Tom Middleton)
 
-Positives:
+### Trainline — Senior PM
 
-1. Came across as personable, engaging, and confident throughout
-1. Demonstrated credible experience in experimentation, A/B testing, and cross-functional product delivery — spoke with authority
-1. During the case study, identified the “decision moment” as a critical friction point — strong product instinct
-1. Suggestion to reduce browsing overload to help users make faster, more confident choices was well-received
-1. Comfortable discussing behavioural metrics and explaining how testing validates specific changes (e.g. improved repeat ordering)
-1. Overall: solid experience in consumer journey optimisation within experimentation-led environments
+- Status: APPLIED — 2026-05-22
+- Salary: £95,000
+- Office: 60% over 12 weeks
+- Coach ranking: opportunistic (consumer mobile, strong salary; no warm channel)
 
-Improvements (actionable for future interviews):
+### Spotify — Senior PM, Subscriptions Mission
 
-1. **Problem diagnosis before solution** — moved too quickly toward a personalisation-led solution before fully diagnosing root causes of the retention problem or testing alternative hypotheses. Take more time to exhaust the problem space first.
-1. **Sharper customer behaviour assessment** — identify specific user segments that are churning; pinpoint exactly what differentiates retained users from those who leave. Segmentation before solution.
-1. **Deeper “why” behind user behaviour** — reducing browsing overload was a sensible direction, but reasoning needed more depth into *why* that specific behaviour exists.
-1. **Data availability thinking** — correctly identified need for signals like order history and cuisine preference, but should have gone further on *how to acquire this data*, particularly for newer users where such signals are sparse.
-1. **Commercial framing** — needed clearer articulation of how the proposed solution would directly impact retention, frequency, and LTV, and why those outcomes matter for broader business strategy. The “so what for the business” layer was underdeveloped.
+- Status: IN PROGRESS — messaged Barry Nevin (Product, Spotify) after his public LinkedIn post inviting outreach; awaiting reply. Outreach sequenced BEFORE applying (correct play — preserves leverage).
+- Salary: unconfirmed (Spotify London SPM will comfortably clear floor)
+- Office: flexible (London or Stockholm)
+- Role: owns freemium-to-Premium funnel end-to-end (conversion, trial-to-paid, ARPU, win-back, retention, lifecycle experimentation). Partners with Pricing & Packaging, Finance, regional teams.
+- Fit verdict: arguably the strongest pure skills match in the pipeline (subscription monetisation = direct Economist parallel; experimentation infrastructure; funnel/cohort thinking). Gap to name: global-markets / localisation experience.
+- Strategic note: "dream company, not dream role." Subscriptions/retention is a current strength but points BACKWARD along Tom's stated AI/fintech/technical-product vector. Legitimate argument: get inside Spotify in a role he'll excel at, then move laterally. Tom's call.
+- Coach ranking: in progress (high fit, strategic-direction caveat; Barry outreach is the differentiator)
 
-### Rightmove — Technical PM, AI Enablement
+### Octopus Energy — Senior PM (speculative)
 
-- Status: SCREENING CALL COMPLETED — 2026-03-05, 4pm, ~30 minutes with Tom (Talent Acquisition). Strong positive signals. Awaiting hiring team sign-off (recruiter catching up with them 2026-03-06; outcome expected Friday or early next week).
-- Fit verdict: Legitimate opportunity — internal platform stretch, well-positioned
-- Fit confidence: High (upgraded from Medium-High post-call)
-- Positive signals from call:
+- Status: IN PROGRESS — application to finish
+- Coach ranking: open thread (low effort to complete)
 
-1. Recruiter walked Tom through all three interview stages unprompted
-1. Recruiter discussed office days (Wednesday and Thursday — matches Tom’s preference perfectly)
-1. Recruiter shared team setup and business strategy detail
-1. Recruiter confirmed expected salary: £90,000 (above Tom’s £85K anchor — unprompted)
-1. Recruiter asked which days of the week work best for interviews
-1. Tom’s answers naturally led into recruiter’s next questions — “you’ve already touched on this” said before most questions
-1. Tom asked the adoption blockers question — recruiter said “really good question”
+### RedCat Digital (unnamed bank) — Senior PM
 
-- Interview process (3 stages):
+- Status: VIEWED — awaiting response from recruiter Chris Gavin
+- Salary: ~£100k + bonus
+- Office: hybrid, 1–2 days
+- Coach ranking: watch
 
-1. Stages 1 and 2: Stakeholder meetings across Engineering and Product — likely competency-based
-1. Stage 3: Case study — how Tom would approach a hypothetical situation
-1. Total: 5–6 team members met across all stages
+### Moneybox — Senior PM, Wealth Propositions & Guidance [ARCHIVED]
 
-- Role detail confirmed: Highly technical; reports into Head of Technology Operations (not a Product leader); brand-new team; also hiring an engineering leader and engineers; focused on safe adoption of AI tools for developers and teams across the business
-- Office days confirmed: Wednesday and Thursday ✅
-- Salary confirmed: £90,000 expected (recruiter-stated, unprompted) — update comp strategy accordingly
-- Structural gaps: internal vs consumer-facing orientation (addressed directly in call); web-first (no mobile dimension)
-- CV version submitted: Technically-minded PM variant (platform/infrastructure/AI framing)
-- Cover letter: Yes — AI Champion, coding pilot, consumer origin story, found first home on Rightmove
-- Prep completed: Full screening call prep document produced covering who-are-you story, why Rightmove/why this role, four experience hooks, questions for them, Rightmove Hows, day-of checklist
-- Thank-you note: Sent 2026-03-06 ~8am (timed before recruiter’s hiring team catch-up)
-- Next steps: Await hiring team confirmation; if progressed — competency-based interview prep is priority (STAR format; stories mapped to engineering/product stakeholder concerns)
-- Coach ranking: 2nd (upgraded; greenfield team + £90K salary + strong call signals make this a top-tier opportunity)
-
-### PlayStation — Senior Technical PM, Partner & Data Products
-
-- Status: REJECTED — 2026-03-11 (application sift; did not progress)
-- Fit verdict: Tough but winnable — structural gap (no game dev background) likely decisive at sift
-- Internal advocate: Staff Data PM (10+ years SIE); confirmed endorsement; named in employee referral field; met for coffee 2026-03-09 at Archetype Coffee, Oxford Circus (Röster recommendation — warm, genuine conversation)
-- Advocate intel from coffee (2026-03-09):
-
-1. DevNet is PlayStation’s developer portal — rebuilt separately for PS3, PS4, and PS5; current investment focus is consolidation into one consistent platform. Likely the core infrastructure problem at the heart of the role.
-1. Matty confirmed relationship is worth maintaining regardless of outcome
-1. Tom was the only candidate from their ~2.5 year old interview process to send a thank-you and ask for feedback — Matty said it demonstrated maturity; explains his ongoing advocacy
-
-- CV version: v3 Deep Optimization
-- Cover letter: v2 final
-- Coach ranking: Archived — Matty relationship retained as long-term network asset
-- Coach ranking: 3rd
-
-### iwoca — Lead PM, Mobile App
-
-- Status: PRE-APPLICATION — recruiter call with Louise Smith (Burns Sheehan) pending
-- Recruiter: Louise Smith, Burns Sheehan — replied to Tom’s LinkedIn message 2026-03-03; offered catch-up call. Tom replied asking for call (short message only, no CV sent — correct sequencing).
-- Fit verdict: Conditional — strong potential if structural unknowns resolve favourably
-- Fit confidence: Medium (pending Louise call)
-- Fit signals: Strongest mobile-from-scratch credentials of any application; native iOS/Android; self-service A/B infrastructure; 99.8% crash-free stability; lowest competition (49 applicants); highest salary ceiling (£100k–£130k); best culture score in pipeline (4.7/5 Glassdoor); +53% 2-year headcount growth (highest in pipeline); profitable since Q4 2022; LOW redundancy risk
-- Structural unknowns — MUST resolve on Louise call:
-
-1. OFFICE DAYS: LinkedIn says “On-site”; JD says “Hybrid in the UK” — must clarify for Stroud base. Ask: “The LinkedIn listing showed on-site — is there flexibility on that, or is it genuinely hybrid?”
-1. TEAM OWNERSHIP: “hiring, building, and leading a cross-functional team” — could mean direct reports (line management, Tom’s hard filter) or squad composition authority (which Tom already does). Ask: “How does iwoca see the team ownership model — would the mobile engineers be direct reports to the PM, or more a cross-functional squad structure?”
-1. ADDITIONAL (seniority step): Is there a CPO or senior product leader who would provide strategic oversight? Is engineering leadership already in place, or is mobile built from scratch including the EM?
-
-- CV version: Prepared and ready — not yet sent (hold until call confirms worth proceeding)
-- Cover letter: Not yet produced — hold until after Louise call
-- Gap flags: B2B/SME customer context; no fintech/payments experience (bonus, not required); genuine seniority step up
-- Seniority step coaching note: Tom raised honest concern about scope step (no Head of Product layer above him; no EM in mobile). Coaching view: real stretch but not unreasonable — he has been operating with significant autonomy at The Economist already. Louise call questions will determine whether the scaffold exists in different form.
-- Coach ranking: 4th (conditional — moves to 2nd or 3rd if both structural unknowns resolve favourably)
-- Date initiated: 2026-03-03
-
-### Rightmove — Senior PM, Consumer Apps
-
-- Status: SUBMITTED — 2026-02-26 (via Hackajob)
-- Fit verdict: Strong domain fit, meaningful preference conflict
-- Fit confidence: Medium
-- Structural gap: LINE MANAGEMENT explicitly required — Tom’s hard filter
-- Coach ranking: 5th (moves to 2nd–3rd if line management confirmed as flexible)
-- Notes: Raise line management question directly at first screening contact.
-
-### Flo Health — PM, Onboarding
-
-- Status: SUBMITTED — 2026-02-24; awaiting response
-- Prior application: Rejected from Flo Growth PM role ~3 days before this submission
-- Fit verdict: Moderate
-- Structural gaps: 3 DAYS IN OFFICE (above Tom’s max); PM title step-down; 511 applicants; prior rejection from same company
-- Cover letter: Strong — authentic personal connection (wife used Flo during conception and pregnancy)
-- Coach ranking: 6th
-- Notes: Do not over-invest prep time. Raise office days early if screened.
+- Status: REJECTED — 2026-04-02 (post Stage 2; via Chloe)
+- See full Stage 1 / Stage 2 detail in Outcome Log and below. Reached final stage; rejection not a fit problem. Internal signal: "loved him, right-person-wrong-role."
+- Stage 2 feedback (developmental, carried forward as the sharpest coaching point):
+  1. Problem diagnosis before solution — moved too quickly to a personalisation-led solution before fully diagnosing root causes / testing alternative hypotheses. Exhaust the problem space first.
+  1. Sharper customer-behaviour assessment — identify specific churning segments; pinpoint what differentiates retained vs lost users. Segmentation before solution.
+  1. Deeper "why" behind user behaviour.
+  1. Data-availability thinking — go further on HOW to acquire signals, especially for newer users where they're sparse.
+  1. Commercial framing — clearer articulation of how the solution impacts retention, frequency, LTV, and why those matter for business strategy.
+- Stage 2 positives: personable, engaging, confident; credible in experimentation/A/B/cross-functional delivery; identified the "decision moment" as a critical friction point; behavioural-metrics fluency.
 
 ## Outcome Log
 
 |Date       |Company    |Round           |Outcome |Notes                                                                                                                                                                                                                                                                                                    |
 |-----------|-----------|----------------|--------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |~2026-02-21|Flo Health |Application sift|Rejected|Growth PM role; quick rejection suggests early CV sift. Tom subsequently applied to Flo Onboarding PM role on 2026-02-24.                                                                                                                                                                                |
-|2026-03-06 |Rightmove  |Application sift|Rejected|Senior PM, Consumer Apps. Automated rejection from no-reply address. Line management requirement was a hard filter conflict anyway. Separate process from TPM AI Enablement — no impact on that pipeline.                                                                                                |
-|2026-03-11 |PlayStation|Application sift|Rejected|Senior TPM, Partner & Data Products. Structural gap (no game dev background) likely decisive. Internal advocate (Matty) relationship remains intact and warm — genuine long-term network asset.                                                                                                          |
-|2026-04-02 |Moneybox   |Stage 2         |Rejected|Senior PM, Wealth Propositions & Guidance. Reached final stage; rejection received via Chloe (STAP) on 2026-04-02, six days after Stage 2 with Ashleigh Petrie (2026-03-26). Strong process overall — Stage 1 positive feedback, progressed quickly. Rejection at final stage does not indicate poor fit.|
+|2026-02-26 |Wise       |Application sift|Rejected|Senior PM, Onboarding. "Great response to the opportunity… decided not to move forward."                                                                                                                                                                                                                |
+|2026-03-06 |Rightmove  |Application sift|Rejected|Senior PM, Consumer Apps. Automated rejection from no-reply address. Line management requirement was a hard filter conflict anyway. Separate process from TPM AI Enablement.                                                                                                                            |
+|2026-03-11 |PlayStation|Application sift|Rejected|Senior TPM, Partner & Data Products. Structural gap (no game dev background) likely decisive. Internal advocate (Matty) relationship remains intact and warm — genuine long-term network asset.                                                                                                         |
+|2026-03-20 |Flo Health |Application sift|Rejected|PM, Onboarding. "Position has been filled… high volume of strong applications."                                                                                                                                                                                                                         |
+|2026-04-02 |Moneybox   |Stage 2         |Rejected|Senior PM, Wealth Propositions & Guidance. Reached final stage; feedback via Chloe. Strong process overall — Stage 1 positive, progressed quickly. Rejection at final stage does not indicate poor fit. Internal: "loved him, right-person-wrong-role."                                                  |
+|2026-04-28 |Penfold    |Application sift|Rejected|Senior PM. Positive signal — loved profile but wanted more B2B experience; Head of Product passed Tom's profile to two B2C-focused fellow Heads of Product who'll get in touch if anything surfaces.                                                                                                     |
+|2026-04-24 |Stripe     |Application sift|Rejected|PM, Local Payment Methods EMEA. Same-day ATS rejection. Part of payments-infrastructure rejection cluster.                                                                                                                                                                                              |
+|2026-04-30 |Wise       |Application sift|Rejected|Senior/Principal PM, Account Experience. Third Wise rejection. Payments-infrastructure cluster.                                                                                                                                                                                                         |
+|2026-05-01 |Zopa       |Application sift|Rejected|Senior PM, Growth & Engagement (Mobile App). Fintech/regulated-banking-infra cluster.                                                                                                                                                                                                                   |
+|2026-05-07 |Birda      |Application     |Rejected|Senior PM (Growth). Two reasons: (1) environment mismatch — they see the app as a layer to access the product, not the product itself; (2) profile leans "too corporate" for a small, fast-moving team. Via Phoebe Sharman (Found By Few).                                                              |
+|2026-05-07 |Monzo      |Application sift|Rejected|PM, Young Monzo. Applied 2026-05-02, rejected very quickly. Re-applied to a new listing of the role.                                                                                                                                                                                                    |
+|~2026-05   |Rightmove  |Process lapsed  |Ghosted |Technical PM (AI Enablement). Functionally dead — no contact since 2026-03-23 despite follow-up 2026-04-28. Treat as silently rejected.                                                                                                                                                                 |
 
 ## Drill Progression
 
@@ -223,45 +194,54 @@ Improvements (actionable for future interviews):
 - Date: 2026-03-12
 - Depth: Deep Optimization
 - Overall: Needs Work (pre-session) → Strong (post-session)
-- Recruiter discoverability: Weak → Strong
-- Credibility on visit: Moderate → Strong
-- Differentiation: Weak → Strong
+- Recruiter discoverability: Weak → Strong | Credibility on visit: Moderate → Strong | Differentiation: Weak → Strong
 - Updates completed:
-  - Headline rewritten: “Senior Technical PM · Mobile Platform & AI Adoption | Self-Service Experimentation · iOS & Android | 5 yrs consumer mobile”
+  - Headline rewritten: "Senior Technical PM · Mobile Platform & AI Adoption | Self-Service Experimentation · iOS & Android | 5 yrs consumer mobile"
   - CSPO removed from name
-  - About section fully rewritten — leads with experimentation infrastructure story, CDO hand-pick detail, AI Champion framing, 58% CLTV narrative told accurately
+  - About section fully rewritten — leads with experimentation-infrastructure story, CDO hand-pick detail, AI Champion framing, CLTV narrative told accurately
   - Banner replaced — custom dark/geometric design replacing Economist corporate banner
   - Skills top 3 reordered: Technical Product Management, A/B Testing, Mobile Product Management
   - Featured section populated: Röster post pinned + live PWA link added
-  - Open to Work updated: Technical Product Manager added to roles listed
-  - Marco Salis recommendation (Android Tech Consultant, The Economist) accepted — strong TPM-relevant endorsement (“impressive ability to understand and balance technical aspects”, “isn’t afraid to get his hands dirty in technical discussions”)
-  - Economist experience description rewritten — metrics to front, motivational closing paragraph deleted, AI Champion bullet added
-  - Custom URL already set (no change needed)
+  - Open to Work updated: Technical Product Manager added
+  - Marco Salis recommendation (Android Tech Consultant, The Economist) accepted — strong TPM-relevant endorsement
+  - Economist experience description rewritten — metrics to front, AI Champion bullet added
 - Top fixes still pending:
-  - Selfridges experience description — tighten, switch to past tense, outcomes-orient
-  - Selling Assistant (John Lewis) — collapse to 1-2 lines
-  - Recommendations — send new requests to: (1) current/recent Economist manager, (2) senior Economist engineering partner, (3) senior Selfridges stakeholder
-  - Return recommendation for Marco Salis — to be drafted (see Coaching Notes)
-- Positioning gaps resolved: LinkedIn now aligned with CV positioning (experimentation infrastructure leads on both surfaces)
+  - Selfridges experience description — tighten, past tense, outcomes-orient
+  - Selling Assistant (John Lewis) — collapse to 1–2 lines
+  - Recommendations — send new requests to current/recent Economist manager, senior Economist engineering partner, senior Selfridges stakeholder
+  - Return recommendation for Marco Salis — to be drafted
 
 ## Resume Optimization
 
-- Date: 2026-03-03
-- CVs produced:
+- CVs produced (chronological, most recent first):
+  - UW COREX / Consumer Experience variant — 2026-05-14 (IA / rearchitecture lead; design-systems keyword; Röster link)
+  - Bunch Senior PM variant — ~2026-05-11 (AI-in-Practice + autonomous-shipping lead to counter "too corporate")
+  - Moneybox P&I variant — 2026-05-17
+  - Rightmove Mortgages (Native Apps) variant — 2026-05-15
+  - Skyscanner App variant — ~2026-05-23
+  - Coutts / NatWest Moving Money variant — 2026-04-28 (Apple Pay / payments lead; premium-customer reframe; two-page)
+  - New Look fashion-ecommerce variant — ~2026-05-07 (Tom_Orton-Bew_CV_Senior_PM_Fashion_Ecommerce.docx — call taken, not progressed)
   - PlayStation v3 (Deep Optimization) — 2026-03-02
   - Rightmove TPM AI Enablement variant — 2026-02-28
   - Rightmove Consumer Apps variant — 2026-02-26
   - Flo Onboarding variant — 2026-02-24
-  - Moneybox Senior PM variant (updated) — 2026-03-03
-  - iwoca Lead PM Mobile variant — 2026-03-03 (ready; not yet submitted pending Louise call)
-- Cross-surface gaps: LinkedIn not yet reviewed — check for “consumer mobile” language
+  - Moneybox Senior PM Wealth variant — 2026-03-03
+- `resume` command defaults to Penfold CV as baseline (not Rightmove CV); produces tailored two-page .docx. Build via Node.js docx package (Arial 11pt, A4, 1080-unit margins, en dashes throughout, no tables/text boxes for ATS, section headings with grey bottom border).
 
 ## Comp Strategy
 
-- Moneybox: £85k (confirmed via James — anchor here, do not undersell)
-- Rightmove TPM AI Enablement: £90,000 (recruiter-stated expected salary, unprompted — do not undersell)
-- PlayStation: £90k (target; not yet discussed)
-- iwoca: £100k–£130k published band; anchor towards top, not bottom
+- UW COREX: £90,000–£95,000 band; Lauren positioning upper-middle — anchor to band, don't undersell
+- Moneybox P&I: put forward £80,000–£85,000 (at-level PM role)
+- Zego: £85,000 + bonus + stock options
+- Skyscanner: £90,000–£100,000 band
+- Trainline: £95,000
+- Rightmove Mortgages: positioned £80,000–£85,000
+- General: don't anchor on current/previous base in recruiter conversations. Target the posted band; re-anchor upward if an offer conversation arises. Bonus not a key consideration.
+
+## Open Items / Discrepancies
+
+- Cleo (AI-native fintech, PM Growth) surfaced 2026-05-07 as a strong potential application combining AI + fintech + mobile + consumer growth. DECLINED — Tom chose not to apply; didn't like how they operate (cash-advance business model sat uneasily against his values filter). Closed, no action needed.
+- Job tracker states 27 applications / 13 active. This file now reconciles to the tracker as the source of truth for status.
 
 ## Session Log
 
@@ -269,51 +249,33 @@ Improvements (actionable for future interviews):
 
 |Date      |Commands Run                                                      |Key Outcomes                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 |----------|------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|2026-03-01|kickoff                                                           |Profile created; Moneybox and PlayStation assessed                                                                                                                                                                                                                                                                                                                                                                                                           |
-|2026-03-01|resume (PlayStation, Deep Optimization)                           |Full audit + rewritten CV; 5 priority fixes applied; consumer framing removed                                                                                                                                                                                                                                                                                                                                                                                |
-|2026-03-02|resume (PlayStation, continued) + cover letter                    |CV to v3; cover letter to v2 final; application submitted                                                                                                                                                                                                                                                                                                                                                                                                    |
-|2026-03-02|coaching-state update (session 3)                                 |Rightmove Consumer Apps and Flo Onboarding added; Rightmove TPM screening call logged; Flo rejection logged                                                                                                                                                                                                                                                                                                                                                  |
-|2026-03-06|debrief + coaching-state update (session 5)                       |Rightmove TPM screening call completed 2026-03-05; strong positive signals documented; salary updated to £90K; interview process mapped (3 stages, competency + case study); coach ranking upgraded to 2nd; thank-you note sent 8am 2026-03-06                                                                                                                                                                                                               |
-|2026-03-09|prep + debrief (session 6)                                        |PlayStation advocate coffee prep completed; coffee with Matty at Archetype Coffee, Oxford Circus; DevNet consolidation intel captured; relationship strengthened; Röster recommended and used successfully                                                                                                                                                                                                                                                   |
-|2026-03-11|coaching-state update (session 7)                                 |PlayStation rejection logged; outcome log updated; focus confirmed on Rightmove TPM and Moneybox                                                                                                                                                                                                                                                                                                                                                             |
-|2026-03-12|linkedin (Deep Optimization)                                      |Full profile overhaul completed: headline, about, banner, skills, featured, experience (Economist). Marco recommendation accepted. Coaching state updated. Inbound contract recruiter (Phoebe Sharman) — keep-warm reply sent.                                                                                                                                                                                                                               |
-|2026-03-12|Moneybox interview intel + prep                                   |Tibby Palmer profile analysed; interview format confirmed (20 mins, 3pm, competency-based); JD bridges mapped; propositions reframe documented; Aurora connection identified; candidate questions prepared                                                                                                                                                                                                                                                   |
-|2026-03-12|Moneybox full prep session (evening)                              |Mission verified; Aurora intel confirmed; TMAY drafted; Stories 1–4 fully built with STAR, earned secrets, Moneybox bridges; gap scripts; anchor phrases; metrics primer; morning plan timeboxed; 18-slide prep deck produced                                                                                                                                                                                                                                |
-|2026-03-13|Moneybox interview rescheduled                                    |Tibby unwell; interview moved from 2026-03-13 3pm to 2026-03-17 12:30pm–12:50pm                                                                                                                                                                                                                                                                                                                                                                              |
-|2026-03-17|Moneybox Stage 1 interview completed                              |Ran ~30 mins (scheduled 20); positive feedback; progressed to Stage 2. Tibby: warm, storytelling strong, autonomy noted, no critique points. Developmental: prepare high-pressure/friction story                                                                                                                                                                                                                                                             |
-|2026-03-18|Stage 2 confirmed; Chloe debrief call                             |Ashleigh Petrie (Director of Product) confirmed as Stage 2 interviewer; 2026-03-26 3pm–3:45pm; format: case study (10 mins beforehand) + competency questions; Tibby on annual leave                                                                                                                                                                                                                                                                         |
-|2026-03-23|Coaching state updated with full Stage 1 debrief and Stage 2 intel                                                                                                                                                                                                                                                                                                                                                                                                                                                             ||
-|2026-04-05|coaching-state update (session 9)                                 |Moneybox Stage 2 completed 2026-03-26; rejection received 2026-04-02 via Chloe; Moneybox loop archived in outcome log. Role criteria updated: office days softened to “ideally 2, would consider 3”; gambling added to excluded domains; bonus deprioritised in comp thinking; strong preferences updated to reflect AI/fintech/technical product stimulation over subscription focus; long-term destinations expanded to Monzo, Spotify, Apple, PlayStation.|
+|2026-04-05|coaching-state update (session 9)                                 |Moneybox Stage 2 rejection logged; role criteria updated (office softened, gambling excluded, bonus deprioritised, AI/fintech/technical preference, destinations expanded to Monzo/Spotify/Apple/PlayStation)                                                                                                                                                                                                                                                |
+|2026-04-24|prop trading role assessment (Breakout / Kraken)                  |Declined — challenge-fee model structurally gambling-adjacent; business-model filter applies to economics, not just domain labels                                                                                                                                                                                                                                                                                                                            |
+|2026-04-27|ZOE Lead PM application                                           |Applied (£110k, remote); prep note: startup-pace defence + Moneybox-lesson diagnosis framing                                                                                                                                                                                                                                                                                                                                                                 |
+|2026-04-28|Coutts (NatWest Moving Money) application                         |Elsewhen assessed and declined (line management, B2B consultancy, Principal-level gaps); Coutts decoded and CV tailored (Apple Pay / payments lead, premium-customer reframe, two-page); Workday application completed and submitted                                                                                                                                                                                                                          |
+|2026-05-07|New Look assessment + full pipeline review                        |New Look call taken, not progressed; Cleo identified and recommended (AI-native fintech, different rejection-risk profile); pipeline patterns surfaced (regulated-banking-infra rejection cluster; warmest live = Moneybox); Phoebe/Birda follow-up sent                                                                                                                                                                                                       |
+|2026-05-11|Bunch Senior PM — assessment, decode, CV, application            |The Bunch (Bristol consumer fintech, ~92 staff, household-bills consolidation). Decode + tailored CV (AI-in-Practice lead to counter "too corporate"); submitted via BambooHR. Simon = CTO (AI-native, the decision-maker); Dominic (Maree Consulting) sourcing layer only; LinkedIn outreach to Simon sent Friday ~4:15pm                                                                                                                                     |
+|2026-05-14|UW COREX deep-dive research                                       |Comprehensive interview-prep brief produced (business, financials, app/tech stack, Hearth design system, competitive positioning, Glassdoor, regulatory, eight hooks, twelve questions). Kathryn Carter identified as likely hiring manager; Claire Fennell = internal recruiter, not HM; Kévin Le Jeune = Head of Eng. CV tailored and passed to Claire via Lauren.                                                                                            |
+|2026-05-15|Rightmove Mortgages (Native Apps) application                     |Applied (£80–85k positioning); reconnect outreach to Tom Middleton (TA) drafted                                                                                                                                                                                                                                                                                                                                                                              |
+|2026-05-17|Moneybox P&I application                                          |Spotted new PM, Pension & Investing role. James (Gravitas) unresponsive (note + voicemail + call); Chloe emailed directly; cold Lever application as backstop. Chloe later re-flagged CV to hiring manager and confirmed agency-window handling. Different hiring manager (not Tibby). Screen probability ~65–70%.                                                                                                                                              |
+|2026-05-18|Spotify Subscriptions Mission — outreach play                     |Decoded role (freemium funnel, strongest pure skills match; strategic-direction caveat). Barry Nevin public LinkedIn post → warm outreach sequenced before applying; connection-request + fuller message drafted                                                                                                                                                                                                                                              |
+|2026-05-22|Trainline Senior PM application                                   |Applied (£95k)                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+|2026-05-23|Skyscanner App — CV optimization + application                    |Applied (£90–100k, Trip.com-owned); full pipeline table reconciled                                                                                                                                                                                                                                                                                                                                                                                           |
+|2026-05-29|Zego — recruiter call + reply to Louise                           |Louise (Burns Sheehan) named Zego as client. Strong fit; office 1–2 days/month; £85k + bonus + stock; AI-native, building on Claude tooling. Scale-up gap flagged. Reply sent (warm; planted strong-fit + Claude-tooling overlap); Monday 2026-06-01 call to follow                                                                                                                                                                                            |
+|2026-05-31|coaching-state update (session 10)                                |Full reconciliation against job tracker (27 apps / 13 active). All loops since 2026-04-05 captured. UW COREX first-stage interview 2026-06-03 confirmed as top priority. Profile, criteria, and positioning refreshed.                                                                                                                                                                                                                                         |
 
 ## Coaching Notes
 
-- 2026-03-01: Facing redundancy with wife and 6-month-old financially dependent. Real financial pressure — coaching should be efficient and high-leverage, not expansive. Avoid adding to anxiety with overwhelming task lists.
-- 2026-03-01: Rusty interviewer (2.5 years). Strong base — this is a refreshing job, not rebuilding from scratch. Focus on story sharpening and narrative readiness.
-- 2026-03-01: Concerned about AI knowledge currency. Worth addressing in prep — his GenAI personalisation work at The Economist is a genuine asset, needs surfacing clearly.
-- 2026-03-01: Moneybox fit assessment upgraded to high confidence after recruiter intelligence: fintech/propositions requirements dropped, salary flexed to £80-85k, explicit gap in market for autonomous creative thinkers (Tom’s profile). Self-service A/B infrastructure = killer proof point for their stated need.
-- 2026-03-01: PlayStation upgraded from long shot to tough-but-winnable. Internal Staff-level advocate has offered endorsement. Confirmed before submission. Relationship asset is real.
-- 2026-03-02: PlayStation application submitted before midnight. CV v3 + Cover Letter v2 final. Employee referral field used for advocate’s name.
-- 2026-03-02: Three important honest corrections made during CV review: (1) “five SDKs” → “multiple”; (2) rearchitecture reframed from “Led full rearchitecture” to “Led my squad’s product and architectural decision-making”; (3) cover letter corrected to match. Tom’s instinct to correct overclaiming is exactly right.
-- 2026-03-02: Rightmove Consumer Apps — raise line management question directly at first screening contact.
-- 2026-03-02: Flo Onboarding — 3-day office requirement is primary practical concern. Cover letter is among the strongest produced. Raise office days early if screened.
-- 2026-03-02: Rightmove TPM AI Enablement screening call booked — most immediate priority. Prep: consumer-to-internal-platform narrative; AI Champion + coding pilot stories; salary anchor £85K.
-- 2026-03-03: iwoca added to pipeline as conditional 4th priority. Identified via LinkedIn. Louise Smith (Burns Sheehan) is the recruiter. Tom reached out proactively; Louise offered a call. Correct sequencing: call first, CV second (CV already prepared and ready).
-- 2026-03-03: Two critical questions for Louise call: (1) On-site vs. hybrid; (2) Team ownership model (squad vs. direct reports). Tom to frame as genuine clarifying questions, not objections.
-- 2026-03-03: Tom raised legitimate concern about seniority step at iwoca — no Head of Product layer above him in mobile function, no EM in place. Coaching view: real stretch, not unreasonable. Additional questions for Louise: CPO/senior product leadership structure; engineering leadership already in place.
-- 2026-03-03: iwoca standout data: 49 applicants (lowest in pipeline), +53% 2-year headcount growth (highest), 4.7/5 Glassdoor (highest), £100k–£130k salary (highest), LOW redundancy risk. If structural unknowns resolve favourably, moves to 2nd or 3rd in ranking.
-- 2026-03-03: Company analysis document updated to include full iwoca section in same format as existing five. Summary table updated to six roles. Rankings revised accordingly.
-- 2026-03-03: Pipeline is now six roles at various stages. Focus should be on progressing what’s in play — no need to expand the search further at this stage.
-- 2026-03-06: Rightmove TPM screening call completed 2026-03-05. Every signal positive — salary revealed at £90K unprompted, interview stages shared, office days confirmed (Wed/Thu), recruiter asked preferred interview days. “You’ve already touched on this” before most questions = Tom’s answers were leading the conversation, not following it. Fit confidence upgraded to High.
-- 2026-03-06: Rightmove TPM is now joint-top priority with Moneybox. Greenfield team (also hiring engineering leader and engineers), reports into Head of Technology Operations, 3-stage process (2x competency, 1x case study). Next prep focus: competency-based STAR answers for Engineering and Product stakeholder interviews.
-- 2026-03-06: Rightmove TPM case study stage likely to involve a hypothetical AI adoption scenario — e.g. “here’s an engineering org with mixed AI adoption, how do you tackle it?” Tom’s pilot experience and research (sustainability framework, DORA metrics, productivity paradox) are strong foundations for this.
-- 2026-03-06: Salary anchor revised upward — £90K is recruiter-stated expectation, not Tom’s ask. This is a meaningful uplift from original £85K anchor. Do not undersell at any subsequent stage.
-- 2026-03-06: Thank-you note sent to recruiter Tom at 8am 2026-03-06 — timed deliberately before his hiring team catch-up. Warm, brief, professional.
-- 2026-03-06: Rightmove Consumer Apps automated rejection received 18:28. From no-reply address, generic template — confirmed automated sift. Line management requirement was a hard filter conflict regardless. Separate hiring process from TPM AI Enablement — zero impact on that pipeline.
-- 2026-03-09: PlayStation advocate coffee completed. Matty met Tom at Archetype Coffee (Röster recommendation — app used live and validated the pick). Conversation was relaxed and genuine. Key intel: DevNet rebuilt per console generation; consolidation into one platform is current investment priority. Tom’s rearchitecture story maps directly.
-- 2026-03-09: Matty revealed Tom was the only candidate from their ~2.5 year old process to send a thank-you and ask for feedback. Small, considered gestures compound significantly over time. Relationship retained as genuine long-term network asset.
-- 2026-03-11: PlayStation rejection received. Not a surprise. Focus and energy correctly on Rightmove TPM and Moneybox — Tom’s two highest-confidence and most motivating opportunities.
-- 2026-03-11: Rightmove TPM chaser sent lunchtime. Warm, brief — referenced Thursday’s conversation and Friday hiring team catch-up. Still awaiting confirmation. No news over weekend is normal; recruiter process timing.
-- 2026-03-12: LinkedIn Deep Optimization completed. Profile overhauled across all high-impact sections in a single session. Headline, About, banner, skills, Featured all updated. Marco Salis recommendation (unprompted, from lead Android developer at The Economist) accepted — strong TPM-relevant social proof. Return recommendation for Marco to be drafted — need: specific projects worked on together, what made him stand out technically, day-to-day working style, tenure together.
-- 2026-03-12: Inbound recruiter message received from Phoebe Sharman (Head of Product and GTM Recruitment) re: SPM contract role at language learning app, AI incubation hub, £550/day outside IR35, fully remote. Keep-warm reply sent — primarily targeting permanent roles, open to chat early next week. Not a priority given Moneybox interview tomorrow and Rightmove TPM pipeline.
-- 2026-04-02: Moneybox rejection received via Chloe. Reached Stage 2 — a strong outcome in absolute terms. Rejection at final stage after positive Stage 1 feedback typically means a competitive field at the top, not a fundamental fit problem. Tom’s process at Moneybox was well-executed end to end.
-- 2026-04-05: Role criteria updated. Hard constraints: office days softened (ideally 2, would consider 3 for right role); gambling added to excluded domains; salary floor £85–90k held but bonus deprioritised as a consideration. Strong preferences updated: domain stimulation now explicitly AI, fintech, or technical products — subscription/retention acknowledged as current strengths but not where Tom most wants to be. Long-term destinations expanded: Monzo, Spotify, Apple, PlayStation — deliberate broadening to avoid over-indexing on a single pathway.
+- 2026-03-01: Facing redundancy with wife and young son financially dependent. Real financial pressure — coaching should be efficient and high-leverage, not expansive.
+- 2026-03-02: Tom's instinct to correct overclaiming is exactly right (e.g. "multiple" not "five" SDKs; rearchitecture framed as "led my squad's product and architectural decision-making"). Maintain this discipline across all CVs.
+- 2026-04-02: Moneybox rejection at Stage 2 — strong outcome in absolute terms. "Loved him, right-person-wrong-role." Process well-executed end to end.
+- 2026-04-05: Role criteria refreshed — office softened (ideally 2, would consider 3 for the right role); gambling added to excluded domains (economics, not just labels); salary floor £85–90k held; bonus deprioritised; domain stimulation explicitly AI/fintech/technical products; destinations expanded to Monzo, Spotify, Apple, PlayStation.
+- 2026-04-24: Prop-trading (Breakout/Kraken) declined — challenge-fee model is structurally gambling-adjacent. Confirms the business-model filter applies to economics, not surface domain labels. Tom's instinctive crypto hesitation was pointing at something substantive.
+- 2026-05-07: Pipeline pattern — regulated-banking-infrastructure roles (Stripe, Wise ×2/×3, Zopa) are not converting. Traction is in growth/experimentation/consumer-mobile and AI-native fintech. Current targeting already works around this. Warmest live process = Moneybox.
+- 2026-05-07: Monzo Young Monzo is PM (not Senior), £75–100k, kids/family specialism — sideways with a stretch flavour. Decide in advance whether Tom would accept PM-not-Senior if it came to it.
+- 2026-05-11: "Too corporate" is a live risk (Birda feedback). Primary counters = AI-in-Practice evidence (Claude Code, Röster, n8n pipeline, AI Champion) and autonomous infrastructure shipping. For small/AI-native teams, lead the CV with this. Simon (Bunch CTO) is exactly the audience who'll recognise the depth — the recruiter filters on years; the CTO reads the AI section.
+- 2026-05-14: UW — confirm hiring manager's full name/title with Lauren before interview (the "Claire" was the internal recruiter, Claire Fennell; HM is almost certainly Kathryn Carter). Pivot framing from native iOS/Android to React Native super-app thinking. Design-systems claim is defensible as platform-pattern work via rearchitecture — have an honest answer ready, not a custodian overclaim.
+- 2026-05-17: Moneybox — case-study feedback was about diagnosis PACE, not seniority ceiling. "Go slower before jumping to solutions" is coachable, not categorical — reflecting on it is a strength to surface, not a weakness to hide. Hold Tibby as a long-game network asset, not a short-term lever.
+- 2026-05-18: Spotify — outreach BEFORE applying preserves leverage (a person having a conversation, not a candidate chasing a process). If Barry responds warmly, reference it in the cover letter; he may flag the name internally before the CV hits the pile.
+- 2026-05-29: Zego — scale-up/founder gap is Louise's one reservation. Build the AI-native, build-measure-learn, autonomous-shipping case early and quietly. Probe which product area the role sits in (consumer Sense vs commercial/delivery) on Monday.
+- 2026-05-31: Parallel track — Tom is also exploring AI Safety Policy Research alongside SPM/PM applications. Held as a genuine secondary path, not a distraction from the live pipeline.
